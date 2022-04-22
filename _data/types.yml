@@ -2,7 +2,7 @@
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
-- name: General Medicine
+- name: General BioMed
   sub: GM
   color: "#deff0a"
 - name: Bioinformatics
