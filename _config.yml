@@ -1,14 +1,14 @@
-title: Conference Deadlines - Shu's pick
-description: Countdowns to related AD/AI/Bioinfo/Imaging/Medical-info conference deadlines created by Shu Yang. Select the filters of conference types; and can also navigate conference dates in the calendar page and export to your own calendar.
+title: ShenLab Conference Deadlines
+description: Countdowns to related AD/AI/Bioinfo/Imaging/Medical-info conference deadlines created by Shu Yang. You can select the filters of conference types; and can also navigate conference dates in the calendar page and export to your own calendar.
 author: syang
 
-domain: "https://syang11.github.io/"
+domain: "https://PennShenLab.github.io/"
 baseurl: "/submission-deadlines"
 
 # twitter:
 #   username: AlexN4u
 #   hashtag: machinelearning
-github_username: syang11
+github_username: PennShenLab
 github_repo: submission-deadlines
 
 markdown: kramdown
