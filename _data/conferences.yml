@@ -133,6 +133,20 @@
   note: Hotel reservations Opens June 1; Deadline is June 8
   full_name: American Society of Human Genetics
   
+- title: ICIBM
+  year: 2022
+  id: icibm22
+  link: https://icibm2022.iaibm.org/
+  deadline: 2022/06/18 09:59
+  timezone: America/New_York
+  date: August 7 - August 9, 2022
+  start: 8/7/2022
+  end: 8/9/2022
+  place: Philadelphia, USA
+  sub: BI
+  note: Selected papers will be published in: Cancers (IF: 6.64), Genes (IF: 4.09), Chemistry & Biodiversity (IF: 2.40, no publication fee), Quantitative Biology (no publication fee)
+  full_name: International Conference on Intelligent Biology and Medicine
+  
 - title: LoG
   year: 2022
   id: log22
