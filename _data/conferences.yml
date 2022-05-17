@@ -1,20 +1,20 @@
 ---
 
 - title: AAAI
-  year: 2022
-  id: aaai22
+  year: 2023
+  id: aaai23
   full_name: Association for the Advancement of Artificial Intelligence
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: 2021/09/08 23:59
-  abstract_deadline: 2021/08/30 23:59
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: 2022/08/15 23:59
+  abstract_deadline: 2022/08/08 23:59
   timezone: UTC-12
-  place: Vancouver, Canada
-  date: February 22 - March 1, 2022
-  start: 2/22/2022
-  end: 3/1/2022
+  place: Washington, DC, USA
+  date: February 7 - February 14, 2023
+  start: 2/7/2023
+  end: 2/14/2023
   hindex: 95
   sub: ML
-  note: Mandatory abstract deadline on August 30, 2021
+  note: Walter E. Washington Convention Center in DC
 
 - title: RECOMB
   year: 2022
