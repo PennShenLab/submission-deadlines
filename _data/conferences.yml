@@ -147,6 +147,20 @@
   note: Selected papers will be published in one of Cancers (IF 6.64), Genes (IF 4.09), Chemistry & Biodiversity (IF 2.40, no publication fee), Quantitative Biology (no publication fee)
   full_name: International Conference on Intelligent Biology and Medicine
   
+- title: MidAtlBioinfo
+  year: 2022
+  id: midatlbioinfo22
+  link: https://www.midatlanticbioinformatics.org/
+  abstract_deadline: 2022/08/15 23:59
+  timezone: America/New_York
+  date: October 7 - October 7, 2022
+  start: 10/7/2022
+  end: 10/7/2022
+  place: Philadelphia, USA
+  sub: BI
+  note: At CHOP, organized by Dr. Kim. 
+  full_name: 7th Annual MidAtlantic Bioinformatics Conference
+  
 - title: LoG
   year: 2022
   id: log22
