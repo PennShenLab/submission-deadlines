@@ -1,5 +1,19 @@
 ---
 
+- title: IJCAI
+  year: 2023
+  id: ijcai23
+  full_name: International Joint Conference on Artificial Intelligence
+  link: https://www.ijcai.org/
+  deadline: 2023/01/14 23:59
+  abstract_deadline: 2023/01/07 23:59
+  timezone: UTC+1
+  place: Cape Town, South Africa
+  date: TBD
+  sub: ML
+  ranking: A
+  note: Submission info TBD, see <a href='https://www.ijcai.org/'>here</a> for updates.
+
 - title: AAAI
   year: 2023
   id: aaai23
@@ -17,18 +31,18 @@
   note: Walter E. Washington Convention Center in DC
 
 - title: RECOMB
-  year: 2022
-  id: recomb22
+  year: 2023
+  id: recomb23
   link: https://recomb2022.net/
-  deadline: 2021/11/04 23:59
-  abstract_deadline: 2022/04/17 23:59
+  deadline: 2022/11/04 23:59
+  abstract_deadline: 2023/04/17 23:59
   timezone: America/New_York
-  date: May 22 - May 25, 2022
+  date: TBD
   start: 5/22/2022
   end: 5/25/2022
-  place: La Jolla, USA
+  place: Istanbul, Turkey
   sub: BI
-  note: Update submission info for 2023
+  note: Update submission info for 2023, see <a href='https://www.ijcai.org/'>here</a> for updates.
   full_name: Annual International Conference on Research in Computational Molecular Biology
   
 - title: ISMB
