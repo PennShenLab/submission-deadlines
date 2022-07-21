@@ -241,17 +241,17 @@
   id: iclr23
   full_name: International Conference on Learning Representations
   link: https://iclr.cc/
-  deadline: 2022/10/05 17:00
-  abstract_deadline: 2022/09/28 17:00
-  timezone: UTC-7
+  deadline: 2022/09/21 23:00
+  abstract_deadline: 2022/09/28 23:00
+  timezone: America/New_York
   place: Online
-  date: April 25 - 29, 2023
-  start: 4/25/2023
-  end: 4/29/2023
+  date: May 1 - 5, 2023
+  start: 5/1/2023
+  end: 5/5/2023
   hindex: 203
   sub: ML
   ranking: A
-  note: Submission info TBD, see <a href='https://iclr.cc/'>here</a> for updates.
+  note: Abstract submission: Sept 21 Submission date: Sept 28 Reviews released: Nov 4 Final decisions: Jan 20
 
 - title: ICML
   year: 2023
