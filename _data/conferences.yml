@@ -1,5 +1,23 @@
 ---
 
+
+
+- title: AMIA
+  year: 2023
+  id: amia23
+  full_name: AMIA 2023 Informatics Summit
+  link: https://amia.org/education-events/amia-2023-informatics-summit/call-participation
+  deadline: 2022/09/14 23:59
+  timezone: America/New_York
+  place: Seattle, Washington, United States
+  date: March 13 - March 16, 2023
+  start: 3/13/2023
+  end: 3/16/2023
+  sub: MHI
+  ranking: NA
+  note: NA
+  
+  
 - title: SPIE
   year: 2023
   id: spie23
