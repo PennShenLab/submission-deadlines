@@ -2,6 +2,21 @@
 
 
 
+- title: OHBM
+  year: 2023
+  id: ohbm23
+  link: https://www.humanbrainmapping.org/
+  deadline: 2023/01/01 23:59
+  timezone: America/New_York
+  date: June 16 - June 20, 2023
+  start: 6/16/2023
+  end: 6/20/2022
+  place: Montreal, Canada
+  sub: IM
+  note: 'Deadlines to be updated'
+  full_name: Alzheimer's Association International Conference
+
+
 - title: AAIC
   year: 2023
   id: aaic23
@@ -25,8 +40,8 @@
   deadline: 2023/04/21 23:59
   timezone: UTC+1
   date: July 23 - July 27, 2023
-  start: 7/23/2022
-  end: 7/27/2022
+  start: 7/23/2023
+  end: 7/27/2023
   place: Lyon, France
   sub: BI
   note: 'Deadline to be determined'
