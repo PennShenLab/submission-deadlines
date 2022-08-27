@@ -2,6 +2,21 @@
 
 
 
+- title: ISMB/ECCB
+  year: 2023
+  id: ismbeccb23
+  link: https://www.iscb.org/ismbeccb2023
+  deadline: 2023
+  timezone: GMT+2
+  date: July 23 - July 27, 2023
+  start: 7/23/2022
+  end: 7/27/2022
+  place: Lyon, France
+  sub: BI
+  note: NA
+  full_name: Intelligent Systems for Molecular Biology / European Conference on Computational Biology
+  
+
 - title: AMIA Summit
   year: 2023
   id: amia_summit23
