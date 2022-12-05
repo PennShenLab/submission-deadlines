@@ -1,5 +1,20 @@
 ---
 
+- title: AIME
+  year: 2023
+  id: AIME23
+  link: https://aime23.aimedicine.info/
+  deadline: 2023/01/15 23:59
+  timezone: America/New_York
+  date: June 12 - June 15, 2023
+  start: 06/12/2023
+  end: 06/15/2023
+  place: Portoroz, Slovenia
+  sub: MHI
+  note: 'Various Deadlines'
+  full_name: 21st International Conference of Artificial Intelligence in Medicine
+  
+  
 - title: IPMI
   year: 2023
   id: IPMI23
