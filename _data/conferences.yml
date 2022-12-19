@@ -11,10 +11,26 @@
   end: 10/12/2023
   place: Vancouver, Canada
   sub: IM
-  note: 'Various Deadlines, see official website'
+  note: 'Intention to submit deadlin Feb 23. Various other deadlines, see official website.'
   full_name: 26th International Conference on Medical Image Computing and Computer Assisted Intervention
-  
-  
+# - title: MICCAI
+#   year: 2023
+#   id: miccai2023
+#   full_name: Medical Image Computing and Computer Assisted Intervention
+#   link: http://www.miccai.org/events/upcoming-conferences/
+#   deadline: 2023/02/15 23:59
+#   timezone: America/New_York
+#   place: Vancouver, Canada
+#   date: October 8 - October 12, 2023
+#   start: 10/8/2023
+#   end: 10/12/2023
+#   hindex: 46
+#   sub: IM
+#   note: Submission info TBD, see <a href='http://www.miccai.org/events/upcoming-conferences/'>here</a> for updates.
+#   paperslink: http://www.miccai.org/events/upcoming-conferences/  
+
+
+
 - title: AIME
   year: 2023
   id: AIME23
@@ -433,23 +449,6 @@
   sub: DM
   full_name: Knowledge Discovery and Data Mining
   note: Submission info TBD, see <a href='https://www.kdd.org/'>here</a> for updates.
-
-
-- title: MICCAI
-  year: 2023
-  id: miccai2023
-  full_name: Medical Image Computing and Computer Assisted Intervention
-  link: http://www.miccai.org/events/upcoming-conferences/
-  deadline: 2023/02/15 23:59
-  timezone: America/New_York
-  place: Vancouver, Canada
-  date: October 8 - October 12, 2023
-  start: 10/8/2023
-  end: 10/12/2023
-  hindex: 46
-  sub: IM
-  note: Submission info TBD, see <a href='http://www.miccai.org/events/upcoming-conferences/'>here</a> for updates.
-  paperslink: http://www.miccai.org/events/upcoming-conferences/
 
 
 - title: CVPR
