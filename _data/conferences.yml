@@ -91,7 +91,7 @@
   
 - title: AMIA2023ClinicalInformatics
   year: 2023
-  id: AMIA23
+  id: AMIACli23
   link: https://amia.org/education-events/amia-2023-clinical-informatics-conference
   deadline: 2022/11/30 23:59
   timezone: America/New_York
@@ -299,15 +299,15 @@
   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
 
 - title: AMIA
-  year: 2022
-  id: amia22
-  link: https://amia.org/education-events/amia-2022-annual-symposium/
+  year: 2023
+  id: amia23
+  link: https://amia.org/education-events/amia-2023-annual-symposium/
   deadline: 2022/3/9 23:59
   timezone: America/New_York
-  date: November 5 - November 9, 2022
-  start: 11/5/2022
-  end: 11/9/2022
-  place: Washington DC, USA
+  date: November 11 - November 15, 2023
+  start: 11/11/2023
+  end: 11/15/2023
+  place: Orleans LA, USA
   sub: MHI
   note: Update submission info for 2023
   full_name: American Medical Informatics Association Annual Symposium
