@@ -1,5 +1,18 @@
 ---
-  
+
+- title: UAI
+  year: 2023
+  id: uai23
+  link: https://www.auai.org/uai2023/
+  deadline: 2023/02/17 23:59
+  timezone: UTC
+  date: July 31 - August 4, 2023
+  start: 7/31/2023
+  end: 8/04/2023  
+  place: Pittsburgh, PA
+  sub: ML
+  full_name: Uncertainty in Artificial Intelligence
+
 - title: MIDL
   year: 2023
   id: MIDL23
@@ -454,12 +467,12 @@
   year: 2023
   id: kdd23
   link: https://www.kdd.org/
-  deadline: 2023/02/10 23:59
+  deadline: 2023/02/02 23:59
   timezone: UTC-12
-  date: August 14-18, 2023
-  start: 8/14/2023
-  end: 8/18/2023
-  place: TBD
+  date: August 06-10, 2023
+  start: 8/06/2023
+  end: 8/10/2023
+  place: Long beach, CA
   sub: DM
   full_name: Knowledge Discovery and Data Mining
   note: Submission info TBD, see <a href='https://www.kdd.org/'>here</a> for updates.
