@@ -326,21 +326,21 @@
   full_name: American Medical Informatics Association Annual Symposium
   
 - title: NeurIPS
-  year: 2022
-  id: neurips22
+  year: 2023
+  id: neurips23
   full_name: Neural Information Processing Systems
-  link: https://neurips.cc/Conferences/2022/
-  deadline: 2022/05/19 9:00
-  abstract_deadline: 2022/05/16 9:00
+  link: https://neurips.cc/Conferences/2023
+  deadline: 2023/05/17 9:00
+  abstract_deadline: 2023/05/11 9:00
   timezone: America/New_York
-  place: Online
-  date: November 26 - December 4, 2022
-  start: 11/26/2022
-  end: 12/4/2022
+  place: New Orleans, Louisiana
+  date: December 12 - December 14, 2023
+  start: 12/12/2023
+  end: 12/14/2023
   hindex: 198
   sub: ML
   ranking: A
-  note: Mandatory abstract deadline on May 16, 2022
+  note: The conference format is still under consideration
   
 - title: ASHG
   year: 2022
