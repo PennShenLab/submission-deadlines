@@ -315,7 +315,7 @@
   year: 2023
   id: amia23
   link: https://amia.org/education-events/amia-2023-annual-symposium/
-  deadline: 2022/3/9 23:59
+  deadline: 2023/3/8 23:59
   timezone: America/New_York
   date: November 11 - November 15, 2023
   start: 11/11/2023
@@ -334,9 +334,9 @@
   abstract_deadline: 2023/05/11 9:00
   timezone: America/New_York
   place: New Orleans, Louisiana
-  date: December 12 - December 14, 2023
-  start: 12/12/2023
-  end: 12/14/2023
+  date: December 10 - December 16, 2023
+  start: 12/10/2023
+  end: 12/16/2023
   hindex: 198
   sub: ML
   ranking: A
