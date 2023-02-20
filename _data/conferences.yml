@@ -297,16 +297,16 @@
   full_name: Alzheimer's Association International Conference
   
 - title: ACM-BCB
-  year: 2022
-  id: acmbcb22
+  year: 2023
+  id: acmbcb23
   link: https://acm-bcb.org/
-  deadline: 2022/05/15 23:59
-  abstract_deadline: 2022/05/14 23:59
+  deadline: 2023/05/26 23:59
+  abstract_deadline: 2023/05/31 23:59
   timezone: America/New_York
-  date: August 7 - August 10, 2022
-  start: 8/7/2022
-  end: 8/10/2022
-  place: Chicago, USA
+  date: September 3 - September 6, 2023
+  start: 9/3/2023
+  end: 9/6/2023
+  place: Houston, TX
   sub: BI
   note: Update submission info for 2023
   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
@@ -340,7 +340,7 @@
   hindex: 198
   sub: ML
   ranking: A
-  note: The conference format is still under consideration
+  note: Also may have bioinformatics track in the main conference and workshops
   
 - title: ASHG
   year: 2022
