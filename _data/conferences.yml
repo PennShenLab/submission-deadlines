@@ -360,14 +360,14 @@
   year: 2023
   id: icibm23
   link: https://icibm2023.iaibm.org/
-  deadline: 2023/03/01 09:59
+  deadline: 2023/03/22 09:59
   timezone: America/New_York
   date: July 16 - July 19, 2023
   start: 7/16/2023
   end: 7/19/2023
   place: Tampa, USA
   sub: BI
-  note: Abstracts submission deadline is different. Cancers (IF 6.24), Genes (IF 4.37), Chemistry and Biodiversity (IF 2.74, no publication fee), Quantitative Biology (no publication fee), and Informatics (IF coming soon)
+  note: Abstracts submission deadline is different. Selected papers will be on: Patterns (from Cell press) (Special issue: Advances in Translational Bioinformatics and Data Sciences), Cancers (IF 6.24), Genes (IF 4.37), Chemistry and Biodiversity (IF 2.74, no publication fee), Quantitative Biology (no publication fee), and Informatics (IF coming soon)
   full_name: International Conference on Intelligent Biology and Medicine
   
 - title: MidAtlBioinfo
