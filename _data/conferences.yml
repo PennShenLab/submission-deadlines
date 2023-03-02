@@ -1,5 +1,19 @@
 ---
 
+- title: ICDM
+  year: 2023
+  id: icdm23
+  full_name: IEEE International Conference on Data Mining
+  link: https://www.cloud-conf.net/icdm2023/
+  deadline: 2023/07/01 23:59
+  timezone: Beijing
+  place: Shanghai, China
+  date: December 1 - 4, 2023
+  start: 12/1/2023
+  end: 12/4/2023
+  hindex: -1
+  sub: DM
+
 - title: UAI
   year: 2023
   id: uai23
