@@ -1,5 +1,19 @@
 ---
 
+- title: BHI
+  year: 2023
+  id: bhi23
+  full_name: IEEE-EMBS International Conference on Biomedical and Health Informatics
+  link: https://bhi.embs.org/2023/
+  deadline: 2023/05/29 23:59
+  timezone: America/New_York
+  place: Pittsburgh, USA
+  date: October 15 - 18, 2023
+  start: 10/15/2023
+  end: 10/18/2023
+  hindex: -1
+  sub: MHI
+  
 - title: ICDM
   year: 2023
   id: icdm23
