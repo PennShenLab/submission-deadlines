@@ -385,17 +385,17 @@
   note: Also may have bioinformatics track in the main conference and workshops
   
 - title: ASHG
-  year: 2022
-  id: ashg22
-  link: https://www.ashg.org/meetings/2022-annual-meeting/
-  deadline: 2022/06/9 09:59
+  year: 2023
+  id: ashg23
+  link: https://www.ashg.org/meetings/2023meeting/
+  deadline: 2023/06/08 09:59
   timezone: America/New_York
-  date: October 25 - October 29, 2022
-  start: 10/25/2022
-  end: 10/29/2022
-  place: Los Angeles, USA
+  date: November 1 - November 5, 2023
+  start: 11/01/2023
+  end: 11/05/2023
+  place: Washington DC, USA
   sub: GM
-  note: Hotel reservations Opens June 1; Deadline is June 8
+  note: Hotel reservations Opens Early May
   full_name: American Society of Human Genetics
   
 - title: ICIBM
