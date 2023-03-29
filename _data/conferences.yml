@@ -458,17 +458,17 @@
   full_name: Pacific Symposium on Biocomputing
 
 - title: BIBM
-  year: 2022
-  id: bibm22
-  link: https://ieeebibm.org/BIBM2022/
-  deadline: 2022/08/21 23:59
+  year: 2023
+  id: bibm23
+  link: https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/
+  deadline: 2023/08/15 23:59
   timezone: America/New_York
-  date: December 6 - December 9, 2022
-  start: 12/6/2022
-  end: 12/9/2022
-  place: Las Vegas, USA
+  date: December 5 - December 8, 2023
+  start: 12/5/2023
+  end: 12/8/2023
+  place: Istanbul, Turkey
   sub: BI
-  note: No abstract submission info yet?
+  note: Travel awards
   full_name: IEEE International Conference on Bioinformatics and Biomedicine
   
 - title: ICLR
