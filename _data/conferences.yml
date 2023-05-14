@@ -1,5 +1,20 @@
 ---
 
+- title: CSH_Asia
+  year: 2023
+  id: CSHA23
+  full_name: Cold Spring Harbor Asia conference on Systems Biology of Gene Regulation and Genome Editing
+  link: https://www.csh-asia.org/?content/332
+  deadline: 2023/08/18 23:59
+  timezone: Beijing
+  place: Suzhou, China
+  date: October 23 - 27, 2023
+  start: 10/23/2023
+  end: 10/27/2023  
+  note: The conference will include eight oral sessions and one poster session covering the latest findings across many topics in system biology.
+  sub: BI
+  
+  
 - title: BI
   year: 2023
   id: bi23
@@ -65,7 +80,7 @@
   start: 7/10/2023
   end: 7/12/2023
   place: Nashville, USA
-  sub: BI
+  sub: IM
   note: Short papers submission deadline is on 7 April. 
   full_name: Medical Imaging with Deep Learning
   
