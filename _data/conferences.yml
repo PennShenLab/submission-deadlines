@@ -1,5 +1,20 @@
 ---
 
+- title: BMC_BioDataMining
+  year: 2023
+  id: BMCBDM23
+  full_name: BMC BioData Mining Journal is calling for the collection of Machine Learning Approaches for Early Diagnosis of Alzheimer’s Disease
+  link: https://www.biomedcentral.com/collections/MLAEDAD
+  deadline: 2024/02/15 23:59
+  timezone: America/New_York
+  place: NA
+  date: Feburary 15 - 15, 2024
+  start: 02/15/2024
+  end: 02/15/2024  
+  note: Jason Moore is editing this special collection for the journal.
+  sub: AD
+  
+  
 - title: CSH_Asia
   year: 2023
   id: CSHA23
