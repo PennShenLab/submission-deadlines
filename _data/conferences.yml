@@ -315,15 +315,15 @@
   year: 2024
   id: recomb24
   link: https://recomb.org/
-  deadline: 2023/10/07 23:59
-  abstract_deadline: 2024/01/27 23:59
+  deadline: 2023/10/20 23:59
+  abstract_deadline: 2024/10/16 23:59
   timezone: America/New_York
   date: April 29 - May 2, 2024
   start: 4/29/2024
   end: 5/2/2024
   place: Boston, MA
   sub: BI
-  note: Need to update submission info once details announced <a href='https://twitter.com/RECOMBconf'>here</a>.
+  note: Author notification on December 18, 2023
   full_name: Annual International Conference on Research in Computational Molecular Biology
   
 - title: ISMB
