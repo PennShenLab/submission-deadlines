@@ -296,18 +296,17 @@
   note: Submission info TBD, see <a href='https://www.ijcai.org/'>here</a> for updates.
 
 - title: AAAI
-  year: 2023
-  id: aaai23
+  year: 2024
+  id: aaai24
   full_name: Association for the Advancement of Artificial Intelligence
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: 2022/08/15 23:59
+  link: https://aaai.org/aaai-conference/
+  deadline: 2023/08/15 23:59
   abstract_deadline: 2022/08/08 23:59
   timezone: UTC-12
-  place: Washington, DC, USA
-  date: February 7 - February 14, 2023
-  start: 2/7/2023
-  end: 2/14/2023
-  hindex: 95
+  place: Vancouver, BC, Canada
+  date: February 20 - February 27, 2024
+  start: 2/20/2024
+  end: 2/127/2024
   sub: ML
   note: Walter E. Washington Convention Center in DC
 
