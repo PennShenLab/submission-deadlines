@@ -1,5 +1,19 @@
 ---
 
+- title: CSBJ
+  year: 2023
+  id: CSBJ23
+  full_name: Computational and Structural Biotechnology Journal calls for special issue on Intelligent Biology and Medicine
+  link: https://www.csbj.org/call_intelligent_biomed
+  deadline: 2023/10/31 23:59
+  timezone: America/New_York
+  place: NA
+  date: October 31 - 31, 2023
+  start: 10/31/2023
+  end: 10/31/2023  
+  note: If submit before the deadline, the review process starts asap; average time for 1st decision is 40 days.
+  sub: BI
+  
 - title: ML4H
   year: 2023
   id: ML4H23
