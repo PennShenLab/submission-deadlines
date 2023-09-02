@@ -1,5 +1,19 @@
 ---
 
+- title: ISBI
+  year: 2024
+  id: ISBI24
+  full_name: IEEE International Symposium on Biomedical Imaging
+  link: https://biomedicalimaging.org/2024/
+  deadline: 2023/10/15 23:59
+  timezone: America/New_York
+  place: Athens, Greece
+  date: May 27 - 30, 2024
+  start: 5/27/2024
+  end: 5/30/2024  
+  note: NA
+  sub: IM
+  
 - title: Mathematics
   year: 2023
   id: Mathematics23
