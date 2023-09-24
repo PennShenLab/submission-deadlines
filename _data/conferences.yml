@@ -18,14 +18,14 @@
   year: 2024
   id: AMIACIC24
   link: https://amia.org/education-events/amia-2024-clinical-informatics-conference
-  deadline:
+  deadline: 2023/11/30 23:59
   timezone: America/New_York
   date: May 21 - May 23, 2024
   start: 05/21/2024
   end: 05/23/2024
   place: Minneapolis, MN
   sub: MHI
-  note: 'Deadlines TBD'
+  note: 'Deadlines TBD'; currently inferred from last year
   full_name: AMIA 2024 Clinical Informatics Conference
 
 - title: ECCV
