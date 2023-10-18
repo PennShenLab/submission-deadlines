@@ -321,18 +321,18 @@
 
 
 - title: ISMB/ECCB
-  year: 2023
-  id: ismbeccb23
-  link: https://www.iscb.org/ismbeccb2023
-  deadline: 2023/01/19 23:59
+  year: 2024
+  id: ismbeccb24
+  link: https://www.iscb.org/ismb2024
+  deadline: 2024/01/25 23:59
   timezone: UTC+1
-  date: July 23 - July 27, 2023
-  start: 7/23/2023
-  end: 7/27/2023
-  place: Lyon, France
+  date: July 12 - July 16, 2024
+  start: 7/12/2024
+  end: 7/16/2024
+  place: Montreal, Canada
   sub: BI
-  note: 'Poster/Abstract Deadline April 20, 2023'
-  full_name: Intelligent Systems for Molecular Biology / European Conference on Computational Biology
+  note: 'Poster/Abstract Deadline TBD'
+  full_name: Intelligent Systems for Molecular Biology
   
 
 - title: AMIA Summit
