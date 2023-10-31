@@ -332,25 +332,25 @@
   full_name: Organization for Human Brain Mapping
 
 
-- title: AAIC
-  year: 2023
-  id: aaic23
-  link: https://aaic.alz.org/overview.asp
-  deadline: 2023/01/31 23:59
-  abstract_deadline: 2023/04/25 23:59
-  timezone: UTC+1
-  date: July 16 - July 21, 2023
-  start: 7/16/2023
-  end: 7/21/2022
-  place: Amsterdam, Netherlands and Online
-  sub: AD
-  note: 'Deadlines to be updated'
-  full_name: Alzheimer's Association International Conference
+# - title: AAIC
+#   year: 2023
+#   id: aaic23
+#   link: https://aaic.alz.org/overview.asp
+#   deadline: 2023/01/31 23:59
+#   abstract_deadline: 2023/04/25 23:59
+#   timezone: UTC+1
+#   date: July 16 - July 21, 2023
+#   start: 7/16/2023
+#   end: 7/21/2022
+#   place: Amsterdam, Netherlands and Online
+#   sub: AD
+#   note: 'Deadlines to be updated'
+#   full_name: Alzheimer's Association International Conference
 
 
-- title: ISMB/ECCB
+- title: ISMB
   year: 2024
-  id: ismbeccb24
+  id: ismb24
   link: https://www.iscb.org/ismb2024
   deadline: 2024/01/25 23:59
   timezone: UTC+1
@@ -359,9 +359,24 @@
   end: 7/16/2024
   place: Montreal, Canada
   sub: BI
-  note: 'Poster/Abstract Deadline TBD'
+  note: 'hard submission deadline; no extensions granted'
   full_name: Intelligent Systems for Molecular Biology
-  
+
+
+- title: ECCB
+  year: 2024
+  id: eccb24
+  link: https://eccb2024.fi/
+  deadline: 2024/01/25 23:59
+  timezone: UTC+1
+  date: September 16 - September 20, 2024
+  start: 7/12/2024
+  end: 7/16/2024
+  place: Logomo, Finland
+  sub: BI
+  note: 'Deadline TBD; only abstracts?'
+  full_name: European Conference on Computational Biology  
+
 
 - title: AMIA Summit
   year: 2023
@@ -396,18 +411,19 @@
   
   
 - title: IJCAI
-  year: 2023
-  id: ijcai23
+  year: 2024
+  id: ijcai24
   full_name: International Joint Conference on Artificial Intelligence
-  link: https://www.ijcai.org/
-  deadline: 2023/01/14 23:59
-  abstract_deadline: 2023/01/07 23:59
-  timezone: UTC+1
-  place: Cape Town, South Africa
-  date: TBD
+  link: https://ijcai24.org/
+  deadline: 2024/01/17 23:59
+  abstract_deadline: 2024/01/10 23:59
+  place: Jeju, South Korea
+  date: August 3 - August 9, 2024
+  start: 8/3/2024
+  end: 8/9/2024
   sub: ML
   ranking: A
-  note: Submission info TBD, see <a href='https://www.ijcai.org/'>here</a> for updates.
+  note: Paper notification on April 16.
 
 - title: AAAI
   year: 2024
@@ -630,20 +646,18 @@
   note: Call for papers TBD
 
 - title: ICML
-  year: 2023
-  id: icml23
+  year: 2024
+  id: icml24
   full_name: International Conference on Machine Learning
-  link: https://icml.cc/Conferences/FutureMeetings
-  deadline: 2023/01/27 23:59
-  place: Seoul, South Korea 
-  date: July 24 - 30, 2023
-  start: 7/24/2023
-  end: 7/30/2023
+  link: https://icml.cc/Conferences/2024/Dates
+  deadline: 2024/02/01 23:59
+  place: Vienna, Austria 
+  date: July 21 - 37, 2024
+  start: 7/21/2024
+  end: 7/27/2024
   hindex: 204
   sub: ML
-  abstract_deadline: 2023/01/20 23:59
-  timezone: UTC-12
-  note: Submission info TBD, see <a href='https://icml.cc/Conferences/FutureMeetings'>here</a> for updates.
+  note: Decision notification on May 1st.
   
 - title: KDD
   hindex: 30
