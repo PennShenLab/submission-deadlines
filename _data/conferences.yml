@@ -1,5 +1,33 @@
 ---
  
+- title: ACLLM
+  year: 2024
+  id: ACLLM24
+  full_name: ACL 2024 Workshop Language + Molecules
+  link: https://language-plus-molecules.github.io/
+  deadline: 2024/05/07 23:59
+  timezone: America/New_York
+  place: Remote
+  date: August 12 - August 17, 2024
+  start: 08/12/2024
+  end: 08/17/2024  
+  note: 'hybrid in Bangkok, Thailand & Remote'
+  sub: MHI
+    
+- title: AIME
+  year: 2024
+  id: AIME24
+  full_name: International Conference on Artificial Intelligence in Medicine
+  link: https://aime24.aimedicine.info/
+  deadline: 2024/03/XX 23:59
+  timezone: America/New_York
+  place: Salt Lake City, United States
+  date: July 09 - July 12, 2024
+  start: 07/09/2024
+  end: 07/12/2024  
+  note: 'Deadlines to be updated'
+  sub: MHI
+   
 - title: AAIC
   year: 2024
   id: AAIC24
