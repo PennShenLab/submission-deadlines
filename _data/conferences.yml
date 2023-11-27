@@ -1,5 +1,19 @@
 ---
- 
+   
+- title: TIST
+  year: 2024
+  id: TIST24
+  full_name: ACM Transactions on Intelligent Systems and Technology calls for special issue on Reliable Artificial Intelligence for Digital Health
+  link: https://dl.acm.org/pb-assets/static_journal_pages/tist/pdf/ACM_TIST_CFP_reliabeAI.pdf
+  deadline: 2024/03/01 23:59
+  timezone: America/New_York
+  place: NA
+  date: October 01 - 01, 2024
+  start: 10/01/2024
+  end: 10/01/2024  
+  note: Submissions must be prepared according to the TIST submission guidelines (https://dl.acm.org/journal/tist/author-guidelines) and must be submitted via Manuscript Central (https://mc.manuscriptcentral.com/tist). The special issue will also consider extended versions of papers published at conferences.
+  sub: ML
+  
 - title: ACL
   year: 2024
   id: ACL24
