@@ -1,5 +1,19 @@
 ---
-   
+  
+- title: FIN
+  year: 2024
+  id: FIN24
+  full_name: Frontiers in Neuroscience calls for research topic on Deep Learning Methods and Applications in Brain Imaging for the Diagnosis of Neurological and Psychiatric Disorders
+  link: https://www.frontiersin.org/research-topics/58627/deep-learning-methods-and-applications-in-brain-imaging-for-the-diagnosis-of-neurological-and-psychiatric-disorders
+  deadline: 2024/01/17 23:59
+  timezone: America/New_York
+  place: NA
+  date: January 17 - 17, 2024
+  start: 01/17/2024
+  end: 01/17/2024  
+  note: NA
+  sub: MHI
+
 - title: TIST
   year: 2024
   id: TIST24
