@@ -1,4 +1,17 @@
 ---
+- title: TCH
+  year: 2024
+  id: TCH24
+  full_name: ACM Transactions on Computing for Healthcare calls for special issue on Large Language Models, Conversational Systems, and Generative AI in Health
+  link: https://dl.acm.org/pb-assets/static_journal_pages/health/pdf/CfP_SI_HEALTH_LLM.pdf
+  deadline: 2024/02/20 23:59
+  timezone: America/New_York
+  place: NA
+  date: June 15 - 15, 2024
+  start: 06/15/2024
+  end: 06/15/2024  
+  note: NA
+  sub: MHI
   
 - title: FIN
   year: 2024
