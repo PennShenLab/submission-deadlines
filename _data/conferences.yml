@@ -1,4 +1,18 @@
 ---
+- title: BDM
+  year: 2024
+  id: BDM24
+  full_name: BioData Mining is calling for submissions to a new Collection on Integrative Analysis of Multi-Omics Data for Precision Medicine.
+  link: https://www.biomedcentral.com/collections/IAMODPM
+  deadline: 2024/04/30 23:59
+  timezone: America/New_York
+  place: NA
+  date: April 30 - 30, 2024
+  start: 04/30/2024
+  end: 04/30/2024  
+  note: BioData Mining is calling for submissions to a new Collection on Integrative Analysis of Multi-Omics Data for Precision Medicine
+  sub: BI
+  
 - title: TCH
   year: 2024
   id: TCH24
