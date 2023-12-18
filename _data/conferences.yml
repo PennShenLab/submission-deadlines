@@ -1,4 +1,6 @@
 ---
+
+
 - title: BDM
   year: 2024
   id: BDM24
@@ -758,15 +760,15 @@
   
 - title: KDD
   hindex: 30
-  year: 2023
-  id: kdd23
-  link: https://www.kdd.org/
-  deadline: 2023/02/02 23:59
+  year: 2024
+  id: kdd24
+  link: https://kdd2024.kdd.org/
+  deadline: 2024/02/01 23:59
   timezone: UTC-12
-  date: August 06-10, 2023
-  start: 8/06/2023
-  end: 8/10/2023
-  place: Long beach, CA
+  date: August 25-29, 2024
+  start: 8/25/2024
+  end: 8/29/2024
+  place: Barcelona, Spain
   sub: DM
   full_name: Knowledge Discovery and Data Mining
   note: Submission info TBD, see <a href='https://www.kdd.org/'>here</a> for updates.
