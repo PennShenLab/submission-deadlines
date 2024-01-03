@@ -611,17 +611,17 @@
   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
 
 - title: AMIA
-  year: 2023
-  id: amia23
-  link: https://amia.org/education-events/amia-2023-annual-symposium/
-  deadline: 2023/3/21 23:59
+  year: 2024
+  id: amia24
+  link: https://amia.org/education-events/annual-symposium
+  deadline: 2024/3/21 23:59
   timezone: America/New_York
-  date: November 11 - November 15, 2023
-  start: 11/11/2023
-  end: 11/15/2023
-  place: Orleans LA, USA
+  date: November 9 - November 13, 2024
+  start: 11/09/2024
+  end: 11/13/2024
+  place: San Francisco, USA
   sub: MHI
-  note: Update submission info for 2023
+  note: deadline info TBD, only inferred from 2023
   full_name: American Medical Informatics Association Annual Symposium
   
 - title: NeurIPS
