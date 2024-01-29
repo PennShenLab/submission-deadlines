@@ -103,7 +103,7 @@
   id: AIME24
   full_name: International Conference on Artificial Intelligence in Medicine
   link: https://aime24.aimedicine.info/
-  deadline: 2024/03/01 23:59
+  deadline: 2024/03/11 23:59
   timezone: America/New_York
   place: Salt Lake City, United States
   date: July 09 - July 12, 2024
@@ -412,7 +412,7 @@
   place: Chicago, IL
   sub: MHI
   note: 'Various Deadlines'
-  full_name: AMIA 2023 Clinical Informatics Conference
+  full_name:  2023 Clinical Informatics Conference
 
 - title: ISBI
   year: 2023
@@ -627,14 +627,14 @@
   year: 2024
   id: amia24
   link: https://amia.org/education-events/annual-symposium
-  deadline: 2024/3/21 23:59
+  deadline: 2024/3/18 23:59
   timezone: America/New_York
   date: November 9 - November 13, 2024
   start: 11/09/2024
   end: 11/13/2024
   place: San Francisco, USA
   sub: MHI
-  note: deadline info TBD, only inferred from 2023
+  note: The theme of AMIA 2024 Annual Symposium is Informatics in the Age of Generative Artificial Intelligence.
   full_name: American Medical Informatics Association Annual Symposium
   
 - title: NeurIPS
