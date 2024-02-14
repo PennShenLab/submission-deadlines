@@ -492,14 +492,14 @@
   year: 2024
   id: eccb24
   link: https://eccb2024.fi/
-  deadline: 2024/01/25 23:59
+  deadline: 2024/03/14 23:59
   timezone: UTC+1
   date: September 16 - September 20, 2024
-  start: 7/12/2024
-  end: 7/16/2024
+  start: 9/16/2024
+  end: 9/20/2024
   place: Logomo, Finland
   sub: BI
-  note: 'Deadline TBD; only abstracts?'
+  note: additional deadlines for workshops and tutorials, talks and posters
   full_name: European Conference on Computational Biology  
 
 
