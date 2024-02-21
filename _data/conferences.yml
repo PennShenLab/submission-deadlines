@@ -1,5 +1,4 @@
 ---
-
 - title: COLM
   year: 2024
   id: colm24
@@ -12,6 +11,20 @@
   place: Philadelphia, PA
   sub: ML
   full_name: Conference on Language Modeling
+
+- title: EMNLP
+  year: 2024
+  id: emnlp24
+  full_name: Empirical Methods in Natural Language Processing
+  link: https://aclrollingreview.org/dates
+  deadline: 2024/04/15 23:59
+  timezone: America/New_York
+  place: NA
+  date: December 07 - 11, 2024
+  start: 12/07/2024
+  end: 12/11/2024
+  note: Exact meeting time and place TBD, the ACL conferences uses rolling review that happen every 2 months. see ARR website
+  sub: NLP
   
 - title: Methods
   year: 2024
