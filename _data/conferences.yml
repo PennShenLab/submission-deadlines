@@ -179,7 +179,21 @@
   end: 5/30/2024  
   note: NA
   sub: IM
-
+  
+- title: ISBITMI
+  year: 2024
+  id: ISBI24TMI
+  full_name: TMI Journal Special Issue track for ISBI2024
+  link: http://hubs.la/Q02lN0k-0
+  deadline: 2024/07/01 23:59
+  timezone: America/New_York
+  place: NA
+  date: July 01 - 01, 2024
+  start: 7/01/2024
+  end: 7/01/2024  
+  note: Just announced! We are excited to offer a new Journal Special Issue track at ISBI2024, IEEE Transactions on Medical Imaging: Advancements in Foundation Models for Medical Imaging. The submission deadline is 1 July 2024. Learn more here: hubs.la/Q02lN0k-0
+  sub: IM
+  
 - title: AMIACIC
   year: 2024
   id: AMIACIC24
