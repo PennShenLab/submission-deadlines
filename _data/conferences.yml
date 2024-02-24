@@ -1,4 +1,18 @@
 ---
+- title: AR_BIC
+  year: 2024
+  id: arbic24
+  full_name: Arkansas Bioinformatics Consortium
+  link: https://ar-bic.aralliance.org/wp-content/uploads/2024/02/AR-BIC-proceedings-ad.pdf
+  deadline: 2024/06/30 23:59
+  timezone: America/New_York
+  place: NA
+  date: February 26 - 27, 2024
+  start: 2/26/2024
+  end: 2/27/2024  
+  note: AR-BIC Proceedings in Experimental Biology and Medicine
+  sub: ML
+  
 - title: COLM
   year: 2024
   id: colm24
