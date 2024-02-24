@@ -767,15 +767,15 @@
   full_name: Pacific Symposium on Biocomputing
 
 - title: BIBM
-  year: 2023
-  id: bibm23
-  link: https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/
-  deadline: 2023/08/15 23:59
+  year: 2024
+  id: bibm24
+  link: https://ieeebibm.org/BIBM2024/
+  deadline: 2024/08/15 23:59
   timezone: America/New_York
-  date: December 5 - December 8, 2023
-  start: 12/5/2023
-  end: 12/8/2023
-  place: Istanbul, Turkey
+  date: December 3 - December 6, 2024
+  start: 12/3/2024
+  end: 12/6/2024
+  place: NA
   sub: BI
   note: Travel awards
   full_name: IEEE International Conference on Bioinformatics and Biomedicine
