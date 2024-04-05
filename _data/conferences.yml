@@ -325,17 +325,16 @@
   sub: MHI
   
 - title: BHI
-  year: 2023
-  id: bhi23
+  year: 2024
+  id: bhi24
   full_name: IEEE-EMBS International Conference on Biomedical and Health Informatics
-  link: https://bhi.embs.org/2023/
-  deadline: 2023/05/29 23:59
+  link: https://bhi.embs.org/2024/
+  deadline: 2024/06/13 23:59
   timezone: America/New_York
-  place: Pittsburgh, USA
-  date: October 15 - 18, 2023
-  start: 10/15/2023
-  end: 10/18/2023
-  hindex: -1
+  place: Houston, USA
+  date: November 10 - 13, 2024
+  start: 11/10/2024
+  end: 11/13/2024
   sub: MHI
   
 - title: ICDM
