@@ -763,15 +763,14 @@
   note: Accepted proceedings papers will be published in the Proceedings for Machine Learning Research (PMLR)
   
 - title: PSB
-  year: 2024
-  id: psb24
-  link: https://psb.stanford.edu/
-  deadline: 2023/08/01 23:59
-  abstract_deadline: 2022/12/04 23:59
+  year: 2025
+  id: psb25
+  link: https://psb.stanford.edu/callfor/papers/
+  deadline: 2024/08/01 23:59
   timezone: America/New_York
-  date: January 3 - January 7, 2024
-  start: 1/3/2024
-  end: 1/7/2024
+  date: January 4 - January 8, 2025
+  start: 1/4/2025
+  end: 1/8/2025
   place: The Big Island of Hawaii, USA
   sub: BI
   note: Other (workshop, travel award, etc.) dates info see <a href='https://psb.stanford.edu/keydates/'>here</a>.
