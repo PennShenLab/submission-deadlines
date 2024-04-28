@@ -1,4 +1,47 @@
 ---
+ 
+- title: MLHC
+  year: 2024
+  id: mlhc24
+  link: https://www.mlforhc.org/
+  deadline: 2024/04/16 23:59
+  timezone: UTC+1
+  date: August 16 - August 17, 2024
+  start: 8/16/2024
+  end: 8/17/2024
+  place: Toronto, Canada
+  sub: MHI
+  note: Bo Wang is in the committee
+  full_name: Machine Learning for Healthcare
+  
+- title: MLCB
+  year: 2024
+  id: mlcb24
+  link: https://sites.google.com/cs.washington.edu/mlcb2024/home?authuser=0
+  deadline: 2024/06/15 23:59
+  timezone: UTC+1
+  date: September 5 - September 6, 2024
+  start: 9/05/2024
+  end: 9/06/2024
+  place: Seattle, WA
+  sub: ML
+  note: origionally the bioinfo workshop in NeurIPS. Accecpted proceedings will be in PMLR
+  full_name: Machine Learning in Computational Biology
+  
+- title: AIPHSS
+  year: 2024
+  id: AIPHSS24
+  full_name: International Workshop on AI Applications in Public Health and Social Services
+  link: https://ai-phss.github.io/AI-PHSS2024/
+  deadline: 2024/03/11 23:59
+  timezone: America/New_York
+  place: Salt Lake City, United States
+  date: July 09 - July 12, 2024
+  start: 07/09/2024
+  end: 07/12/2024  
+  note: in Conjunction with AIME2024
+  sub: MHI
+  
 - title: AR_BIC
   year: 2024
   id: arbic24
