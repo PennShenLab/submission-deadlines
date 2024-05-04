@@ -749,15 +749,15 @@
   note: Also may have bioinformatics track in the main conference and workshops
   
 - title: ASHG
-  year: 2023
-  id: ashg23
-  link: https://www.ashg.org/meetings/2023meeting/
-  deadline: 2023/06/08 09:59
+  year: 2024
+  id: ashg24
+  link: https://www.ashg.org/meetings/2024meeting/program/abstracts/
+  deadline: 2024/06/05 17:59
   timezone: America/New_York
-  date: November 1 - November 5, 2023
-  start: 11/01/2023
-  end: 11/05/2023
-  place: Washington DC, USA
+  date: November 5 - November 9, 2024
+  start: 11/05/2024
+  end: 11/09/2024
+  place: Denver CO, USA
   sub: GM
   note: Hotel reservations Opens Early May
   full_name: American Society of Human Genetics
