@@ -836,7 +836,7 @@
   year: 2024
   id: bibm24
   link: https://ieeebibm.org/BIBM2024/
-  deadline: 2024/06/20 23:59
+  deadline: 2024/08/15 23:59
   timezone: America/New_York
   date: December 3 - December 6, 2024
   start: 12/3/2024
@@ -845,6 +845,19 @@
   sub: BI
   note: Second round deadline on Aug 16 this year
   full_name: IEEE International Conference on Bioinformatics and Biomedicine
+
+- title: BIGDATA
+  year: 2024
+  id: bigdata24
+  link: http://bigdataieee.org/BigData2024/
+  deadline: 2024/09/08 23:59
+  timezone: America/New_York
+  date: December 15 - December 18, 2024
+  start: 12/15/2024
+  end: 12/18/2024
+  place: Washington DC, USA
+  sub: DM
+  full_name: IEEE International Conference on Big Data
   
 - title: ICLR
   year: 2024
