@@ -600,19 +600,19 @@
 
 
 - title: AMIA Summit
-  year: 2023
-  id: amia_summit24
-  full_name: AMIA 2024 Informatics Summit
-  link: https://amia.org/education-events/amia-2024-informatics-summit/call-participation
+  year: 2025
+  id: amia_summit25
+  full_name: AMIA 2025 Informatics Summit
+  link: https://amia.org/education-events/amia-2025-informatics-summit
   deadline: 2023/09/14 23:59
   timezone: America/New_York
-  place: Boston, MA, United States
-  date: March 18 - March 21, 2024
-  start: 3/18/2024
-  end: 3/21/2024
+  place: Pittsburgh, PA, United States
+  date: March 10 - March 13, 2025
+  start: 3/10/2025
+  end: 3/13/2025
   sub: MHI
   ranking: NA
-  note: NA
+  note: submission deadline not out yet
   
   
 - title: SPIE
