@@ -846,6 +846,20 @@
   note: Second round deadline on Aug 16 this year
   full_name: IEEE International Conference on Bioinformatics and Biomedicine
 
+- title: BIBMWS
+  year: 2024
+  id: bibmws24
+  link: https://sites.google.com/unipv.it/ieee-bibm-2024-workshop21/home?authuser=3
+  deadline: 2024/10/10 23:59
+  timezone: America/New_York
+  date: December 3 - December 6, 2024
+  start: 12/3/2024
+  end: 12/6/2024
+  place: Lisbon, Portugal
+  sub: BI
+  note: Daniele is the chair
+  full_name: IEEE BIBM 2024 Workshop on AI and Computational Methods for Public Health and the Environment
+
 - title: BIGDATA
   year: 2024
   id: bigdata24
