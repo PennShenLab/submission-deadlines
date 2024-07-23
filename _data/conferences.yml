@@ -599,12 +599,12 @@
   full_name: European Conference on Computational Biology  
 
 
-- title: AMIA Summit
+- title: AMIA Informatics Summit
   year: 2025
   id: amia_summit25
   full_name: AMIA 2025 Informatics Summit
   link: https://amia.org/education-events/amia-2025-informatics-summit
-  deadline: 2024/08/15 23:59
+  deadline: 2024/09/17 23:59
   timezone: America/New_York
   place: Pittsburgh, PA, United States
   date: March 10 - March 13, 2025
@@ -612,7 +612,7 @@
   end: 3/13/2025
   sub: MHI
   ranking: NA
-  note: submission deadline in a wordpress site
+  note: Decisions for all formats will be announced in early December
   
   
 - title: SPIE
