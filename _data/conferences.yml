@@ -676,17 +676,18 @@
   note: Kevin Leyton-Brown from UBC is the conference committee chair
 
 - title: RECOMB
-  year: 2024
-  id: recomb24
+  year: 2025
+  id: recomb25
   link: https://recomb.org/
-  deadline: 2023/10/20 23:59
+  deadline: 2025/10/25 23:59
+  paper_register_deadline: 2025/10/16 23:59
   timezone: America/New_York
-  date: April 29 - May 2, 2024
-  start: 4/29/2024
-  end: 5/2/2024
-  place: Boston, MA
+  date: April 26 - April 29, 2024
+  start: 4/26/2025
+  end: 4/29/2025
+  place: Seoul, Korea
   sub: BI
-  note: Author notification on December 18, 2023
+  note: Author notification on December 16, 2024
   full_name: Annual International Conference on Research in Computational Molecular Biology
   
 - title: ISMB
