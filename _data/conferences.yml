@@ -675,6 +675,21 @@
   sub: ML
   note: Kevin Leyton-Brown from UBC is the conference committee chair
 
+- title: AAAI_workshop
+  year: 2025
+  id: aaaiws25
+  full_name: workshop for Association for the Advancement of Artificial Intelligence
+  link: https://aaai.org/conference/aaai/aaai-25/
+  deadline: 2024/11/22 23:59
+  proposal_deadline: 2024/09/02 23:59
+  timezone: UTC-12
+  place: PHILADELPHIA, PA, USA
+  date: February 25 - March 4, 2025
+  start: 2/25/2025
+  end: 3/4/2025
+  sub: ML
+  note: Kevin Leyton-Brown from UBC is the conference committee chair
+
 - title: RECOMB
   year: 2025
   id: recomb25
