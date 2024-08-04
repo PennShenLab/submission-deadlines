@@ -1,4 +1,18 @@
 ---
+- title: CLeaR
+  year: 2025
+  id: CLeaR25
+  full_name: Conference on Causal Learning and Reasoning
+  link: https://www.cclear.cc/2025/CallforPapers
+  deadline: 2024/11/02 23:59
+  timezone: America/New_York
+  place: NA
+  date: May 7 - 9, 2025
+  start: 05/07/2025
+  end: 05/09/2025  
+  note: We invite submissions to the 4th Conference on Causal Learning and Reasoning (CLeaR), and welcome paper submissions that describe new theory, methodology, and/or applications relevant to any aspect of causal learning and reasoning in the fields of artificial intelligence and statistics. Accepted papers will be published in the Proceedings of Machine Learning Research (PMLR)
+  sub: IM
+
 - title: ImagingNeuroscience
   year: 2024
   id: INSIIG24
