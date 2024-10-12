@@ -675,20 +675,19 @@
   sub: ML
   note: Kevin Leyton-Brown from UBC is the conference committee chair
 
-- title: AAAI_workshop
+- title: AAAI_AIMedHealth_workshop
   year: 2025
-  id: aaaiws25
-  full_name: workshop for Association for the Advancement of Artificial Intelligence
-  link: https://aaai.org/conference/aaai/aaai-25/
-  deadline: 2024/11/22 23:59
-  proposal_deadline: 2024/09/02 23:59
+  id: aimedhealth25
+  full_name: AI for Medicine and Healthcare AAAI Bridge Program 2025
+  link: https://sites.google.com/view/aimedhealth-aaai/home
+  deadline: 2024/11/25 23:59
   timezone: UTC-12
   place: PHILADELPHIA, PA, USA
-  date: February 25 - March 4, 2025
+  date: February 25 - February 26, 2025
   start: 2/25/2025
-  end: 3/4/2025
+  end: 2/26/2025
   sub: ML
-  note: Kevin Leyton-Brown from UBC is the conference committee chair
+  note: Dr. Min Xu is one of the organizers of the workshop
 
 - title: RECOMB
   year: 2025
