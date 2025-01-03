@@ -1,4 +1,5 @@
 ---
+
 - title: NeuS
   year: 2025
   id: NeuS25
@@ -963,18 +964,18 @@
   
 - title: KDD
   hindex: 30
-  year: 2024
-  id: kdd24
-  link: https://kdd2024.kdd.org/
-  deadline: 2024/02/01 23:59
+  year: 2025
+  id: kdd25
+  link: https://kdd2025.kdd.org/
+  deadline: 2025/02/10 23:59
   timezone: UTC-12
-  date: August 25-29, 2024
-  start: 8/25/2024
-  end: 8/29/2024
-  place: Barcelona, Spain
+  date: August 3-7, 2025
+  start: 8/03/2024
+  end: 8/07/2024
+  place: Toronto, Canada
   sub: DM
   full_name: Knowledge Discovery and Data Mining
-  note: Submission info TBD, see <a href='https://www.kdd.org/'>here</a> for updates.
+  note: Note the paper abstract deadline is on Feb 3rd.
 
 
 - title: CVPR
