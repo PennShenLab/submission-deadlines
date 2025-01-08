@@ -210,16 +210,16 @@
   sub: ML
   
 - title: ACL
-  year: 2024
-  id: ACL24
+  year: 2025
+  id: ACL25
   full_name: Annual Meeting of the Association for Computational Linguistics
-  link: https://2024.aclweb.org
-  deadline: 2024/02/15 23:59
+  link: https://2025.aclweb.org/
+  deadline: 2025/02/15 23:59
   timezone: America/New_York
-  place: Bangkok, Thailand
-  date: August 12 - August 17, 2024
-  start: 08/12/2024
-  end: 08/17/2024  
+  place: Vienna, Austria
+  date: July 27 - August 1, 2025
+  start: 07/27/2025
+  end: 08/1/2025  
   note: 'NA'
   sub: ML
   
@@ -613,17 +613,17 @@
 
 
 - title: ISMB
-  year: 2024
-  id: ismb24
-  link: https://www.iscb.org/ismb2024
-  deadline: 2024/01/25 23:59
+  year: 2025
+  id: ismb25
+  link: https://www.iscb.org/ismbeccb2025/home
+  deadline: 2025/01/23 23:59
   timezone: UTC+1
-  date: July 12 - July 16, 2024
-  start: 7/12/2024
-  end: 7/16/2024
-  place: Montreal, Canada
+  date: July 20 - July 24, 2025
+  start: 7/20/2025
+  end: 7/24/2025
+  place: Liverpool, UK
   sub: BI
-  note: 'hard submission deadline; no extensions granted'
+  note: Joint with ECCB
   full_name: Intelligent Systems for Molecular Biology
 
 
@@ -681,7 +681,7 @@
   link: https://2025.ijcai.org/
   deadline: 2025/01/23 23:59
   abstract_deadline: 2025/01/16 23:59
-  place: Jeju, South Korea
+  place: Montreal, Canada
   date: August 16 - August 22, 2025
   start: 8/16/2025
   end: 8/22/2025
@@ -949,18 +949,18 @@
   note: Call for papers TBD
 
 - title: ICML
-  year: 2024
-  id: icml24
+  year: 2025
+  id: icml25
   full_name: International Conference on Machine Learning
-  link: https://icml.cc/Conferences/2024/Dates
-  deadline: 2024/02/01 23:59
-  place: Vienna, Austria 
-  date: July 21 - 37, 2024
-  start: 7/21/2024
-  end: 7/27/2024
+  link: https://icml.cc/
+  deadline: 2025/01/31 23:59
+  place: Vancouver, Canada 
+  date: July 13 - 19, 2025
+  start: 7/13/2025
+  end: 7/19/2025
   hindex: 204
   sub: ML
-  note: Decision notification on May 1st.
+  note: Abstract due Jan 23.
   
 - title: KDD
   hindex: 30
