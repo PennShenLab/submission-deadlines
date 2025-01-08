@@ -675,19 +675,19 @@
   
   
 - title: IJCAI
-  year: 2024
-  id: ijcai24
+  year: 2025
+  id: ijcai25
   full_name: International Joint Conference on Artificial Intelligence
-  link: https://ijcai24.org/
-  deadline: 2024/01/17 23:59
-  abstract_deadline: 2024/01/10 23:59
+  link: https://2025.ijcai.org/
+  deadline: 2025/01/23 23:59
+  abstract_deadline: 2025/01/16 23:59
   place: Jeju, South Korea
-  date: August 3 - August 9, 2024
-  start: 8/3/2024
-  end: 8/9/2024
+  date: August 16 - August 22, 2025
+  start: 8/16/2025
+  end: 8/22/2025
   sub: ML
   ranking: A
-  note: Paper notification on April 16.
+  note: abstract due Jan 16.
 
 - title: AAAI
   year: 2025
