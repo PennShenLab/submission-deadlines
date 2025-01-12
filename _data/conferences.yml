@@ -1,5 +1,18 @@
 ---
-
+- title: ieeeJBHI
+  year: 2025
+  id: JBHI25
+  full_name: IEEE Journal of Biomedical and Health Informatics call for papers Special Issue on Synergizing Multi-modal Agents and Large Foundation Models for Healthcare
+  link: https://www.embs.org/jbhi/about-j-bhi/
+  deadline: 2025/05/31 23:59
+  timezone: America/New_York
+  place: NA
+  date: May 31 - 31, 2025
+  start: 05/31/2025
+  end: 05/31/2025  
+  note: Cheng Chen-MGH organizes. JCR top, IF 7.7
+  sub: AD
+  
 - title: NeuS
   year: 2025
   id: NeuS25
@@ -28,186 +41,186 @@
   note: We invite submissions to the 4th Conference on Causal Learning and Reasoning (CLeaR), and welcome paper submissions that describe new theory, methodology, and/or applications relevant to any aspect of causal learning and reasoning in the fields of artificial intelligence and statistics. Accepted papers will be published in the Proceedings of Machine Learning Research (PMLR)
   sub: IM
 
-- title: AlzheimerAndDementia
-  year: 2024
-  id: ADSI24
-  full_name: Alzheimer’s and Dementia call for papers Special Issue
-  link: https://mailchi.mp/0678bba273e7/may-2024-news-12739408?e=b36cff47cd
-  deadline: 2024/12/31 23:59
-  timezone: America/New_York
-  place: NA
-  date: September 30 - 30, 2025
-  start: 09/30/2025
-  end: 09/30/2025  
-  note: All papers will be reviewed and are subject to all regular Alzheimer’s & Dementia policies, procedures, and publishing fees. Final collation of this issue is expected to occur in Fall of 2025
-  sub: AD
+# - title: AlzheimerAndDementia
+#   year: 2024
+#   id: ADSI24
+#   full_name: Alzheimer’s and Dementia call for papers Special Issue
+#   link: https://mailchi.mp/0678bba273e7/may-2024-news-12739408?e=b36cff47cd
+#   deadline: 2024/12/31 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: September 30 - 30, 2025
+#   start: 09/30/2025
+#   end: 09/30/2025  
+#   note: All papers will be reviewed and are subject to all regular Alzheimer’s & Dementia policies, procedures, and publishing fees. Final collation of this issue is expected to occur in Fall of 2025
+#   sub: AD
 
-- title: ImagingNeuroscience
-  year: 2024
-  id: INSIIG24
-  full_name: Imaging Neuroscience Special Issue on Imaging Genetics
-  link: https://direct.mit.edu/imag/pages/call_for_papers_imaging_genetics
-  deadline: 2024/09/30 23:59
-  timezone: America/New_York
-  place: NA
-  date: April 30 - 30, 2025
-  start: 04/30/2025
-  end: 04/30/2025  
-  note: submission portal opens at the end of May and closes at the end of September 2024. All papers aimed to be accepted by April 2025
-  sub: IM
+# - title: ImagingNeuroscience
+#   year: 2024
+#   id: INSIIG24
+#   full_name: Imaging Neuroscience Special Issue on Imaging Genetics
+#   link: https://direct.mit.edu/imag/pages/call_for_papers_imaging_genetics
+#   deadline: 2024/09/30 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: April 30 - 30, 2025
+#   start: 04/30/2025
+#   end: 04/30/2025  
+#   note: submission portal opens at the end of May and closes at the end of September 2024. All papers aimed to be accepted by April 2025
+#   sub: IM
   
-- title: MLHC
-  year: 2024
-  id: mlhc24
-  link: https://www.mlforhc.org/
-  deadline: 2024/04/16 23:59
-  timezone: UTC+1
-  date: August 16 - August 17, 2024
-  start: 8/16/2024
-  end: 8/17/2024
-  place: Toronto, Canada
-  sub: MHI
-  note: Bo Wang is in the committee
-  full_name: Machine Learning for Healthcare
+# - title: MLHC
+#   year: 2024
+#   id: mlhc24
+#   link: https://www.mlforhc.org/
+#   deadline: 2024/04/16 23:59
+#   timezone: UTC+1
+#   date: August 16 - August 17, 2024
+#   start: 8/16/2024
+#   end: 8/17/2024
+#   place: Toronto, Canada
+#   sub: MHI
+#   note: Bo Wang is in the committee
+#   full_name: Machine Learning for Healthcare
   
-- title: MLCB
-  year: 2024
-  id: mlcb24
-  link: https://sites.google.com/cs.washington.edu/mlcb2024/home?authuser=0
-  deadline: 2024/06/15 23:59
-  timezone: UTC+1
-  date: September 5 - September 6, 2024
-  start: 9/05/2024
-  end: 9/06/2024
-  place: Seattle, WA
-  sub: ML
-  note: origionally the bioinfo workshop in NeurIPS. Accecpted proceedings will be in PMLR
-  full_name: Machine Learning in Computational Biology
+# - title: MLCB
+#   year: 2024
+#   id: mlcb24
+#   link: https://sites.google.com/cs.washington.edu/mlcb2024/home?authuser=0
+#   deadline: 2024/06/15 23:59
+#   timezone: UTC+1
+#   date: September 5 - September 6, 2024
+#   start: 9/05/2024
+#   end: 9/06/2024
+#   place: Seattle, WA
+#   sub: ML
+#   note: origionally the bioinfo workshop in NeurIPS. Accecpted proceedings will be in PMLR
+#   full_name: Machine Learning in Computational Biology
   
-- title: AIPHSS
-  year: 2024
-  id: AIPHSS24
-  full_name: International Workshop on AI Applications in Public Health and Social Services
-  link: https://ai-phss.github.io/AI-PHSS2024/
-  deadline: 2024/03/11 23:59
-  timezone: America/New_York
-  place: Salt Lake City, United States
-  date: July 09 - July 12, 2024
-  start: 07/09/2024
-  end: 07/12/2024  
-  note: in Conjunction with AIME2024
-  sub: MHI
+# - title: AIPHSS
+#   year: 2024
+#   id: AIPHSS24
+#   full_name: International Workshop on AI Applications in Public Health and Social Services
+#   link: https://ai-phss.github.io/AI-PHSS2024/
+#   deadline: 2024/03/11 23:59
+#   timezone: America/New_York
+#   place: Salt Lake City, United States
+#   date: July 09 - July 12, 2024
+#   start: 07/09/2024
+#   end: 07/12/2024  
+#   note: in Conjunction with AIME2024
+#   sub: MHI
   
-- title: AR_BIC
-  year: 2024
-  id: arbic24
-  full_name: Arkansas Bioinformatics Consortium
-  link: https://ar-bic.aralliance.org/wp-content/uploads/2024/02/AR-BIC-proceedings-ad.pdf
-  deadline: 2024/06/30 23:59
-  timezone: America/New_York
-  place: NA
-  date: February 26 - 27, 2024
-  start: 2/26/2024
-  end: 2/27/2024  
-  note: AR-BIC Proceedings in Experimental Biology and Medicine
-  sub: ML
+# - title: AR_BIC
+#   year: 2024
+#   id: arbic24
+#   full_name: Arkansas Bioinformatics Consortium
+#   link: https://ar-bic.aralliance.org/wp-content/uploads/2024/02/AR-BIC-proceedings-ad.pdf
+#   deadline: 2024/06/30 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: February 26 - 27, 2024
+#   start: 2/26/2024
+#   end: 2/27/2024  
+#   note: AR-BIC Proceedings in Experimental Biology and Medicine
+#   sub: ML
   
-- title: COLM
-  year: 2024
-  id: colm24
-  link: https://colmweb.org/cfp.html
-  deadline: 2024/03/22 23:59
-  timezone: UTC
-  date: October 7 - October 9, 2024
-  start: 10/07/2024
-  end: 10/09/2024  
-  place: Philadelphia, PA
-  sub: ML
-  full_name: Conference on Language Modeling
+# - title: COLM
+#   year: 2024
+#   id: colm24
+#   link: https://colmweb.org/cfp.html
+#   deadline: 2024/03/22 23:59
+#   timezone: UTC
+#   date: October 7 - October 9, 2024
+#   start: 10/07/2024
+#   end: 10/09/2024  
+#   place: Philadelphia, PA
+#   sub: ML
+#   full_name: Conference on Language Modeling
 
-- title: EMNLP
-  year: 2024
-  id: emnlp24
-  full_name: Empirical Methods in Natural Language Processing
-  link: https://aclrollingreview.org/dates
-  deadline: 2024/04/15 23:59
-  timezone: America/New_York
-  place: NA
-  date: December 07 - 11, 2024
-  start: 12/07/2024
-  end: 12/11/2024  
-  note: Exact meeting time and place TBD, the ACL conferences use rolling review that happen every 2 months. see ARR website
-  sub: ML
+# - title: EMNLP
+#   year: 2024
+#   id: emnlp24
+#   full_name: Empirical Methods in Natural Language Processing
+#   link: https://aclrollingreview.org/dates
+#   deadline: 2024/04/15 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: December 07 - 11, 2024
+#   start: 12/07/2024
+#   end: 12/11/2024  
+#   note: Exact meeting time and place TBD, the ACL conferences use rolling review that happen every 2 months. see ARR website
+#   sub: ML
   
-- title: Methods
-  year: 2024
-  id: METHODS24
-  full_name: Methods journal calls for special issue on Advances of natural language processing in bioinformatics and medical informatic
-  link: https://www.sciencedirect.com/journal/methods
-  deadline: 2024/05/01 23:59
-  timezone: America/New_York
-  place: NA
-  date: May 01 - 01, 2024
-  start: 05/01/2024
-  end: 05/01/2024  
-  note: Exact deadline TBD, need to check website for update. Methods journal calls for special issue on Advances of natural language processing in bioinformatics and medical informatic
-  sub: MHI
+# - title: Methods
+#   year: 2024
+#   id: METHODS24
+#   full_name: Methods journal calls for special issue on Advances of natural language processing in bioinformatics and medical informatic
+#   link: https://www.sciencedirect.com/journal/methods
+#   deadline: 2024/05/01 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: May 01 - 01, 2024
+#   start: 05/01/2024
+#   end: 05/01/2024  
+#   note: Exact deadline TBD, need to check website for update. Methods journal calls for special issue on Advances of natural language processing in bioinformatics and medical informatic
+#   sub: MHI
   
-- title: BDM
-  year: 2024
-  id: BDM24
-  full_name: BioData Mining is calling for submissions to a new Collection on Integrative Analysis of Multi-Omics Data for Precision Medicine.
-  link: https://www.biomedcentral.com/collections/IAMODPM
-  deadline: 2024/04/30 23:59
-  timezone: America/New_York
-  place: NA
-  date: April 30 - 30, 2024
-  start: 04/30/2024
-  end: 04/30/2024  
-  note: BioData Mining is calling for submissions to a new Collection on Integrative Analysis of Multi-Omics Data for Precision Medicine
-  sub: BI
+# - title: BDM
+#   year: 2024
+#   id: BDM24
+#   full_name: BioData Mining is calling for submissions to a new Collection on Integrative Analysis of Multi-Omics Data for Precision Medicine.
+#   link: https://www.biomedcentral.com/collections/IAMODPM
+#   deadline: 2024/04/30 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: April 30 - 30, 2024
+#   start: 04/30/2024
+#   end: 04/30/2024  
+#   note: BioData Mining is calling for submissions to a new Collection on Integrative Analysis of Multi-Omics Data for Precision Medicine
+#   sub: BI
   
-- title: TCH
-  year: 2024
-  id: TCH24
-  full_name: ACM Transactions on Computing for Healthcare calls for special issue on Large Language Models, Conversational Systems, and Generative AI in Health
-  link: https://dl.acm.org/pb-assets/static_journal_pages/health/pdf/CfP_SI_HEALTH_LLM.pdf
-  deadline: 2024/02/20 23:59
-  timezone: America/New_York
-  place: NA
-  date: June 15 - 15, 2024
-  start: 06/15/2024
-  end: 06/15/2024  
-  note: ACM Transactions on Computing for Healthcare calls for special issue on Large Language Models, Conversational Systems, and Generative AI in Health
-  sub: MHI
+# - title: TCH
+#   year: 2024
+#   id: TCH24
+#   full_name: ACM Transactions on Computing for Healthcare calls for special issue on Large Language Models, Conversational Systems, and Generative AI in Health
+#   link: https://dl.acm.org/pb-assets/static_journal_pages/health/pdf/CfP_SI_HEALTH_LLM.pdf
+#   deadline: 2024/02/20 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: June 15 - 15, 2024
+#   start: 06/15/2024
+#   end: 06/15/2024  
+#   note: ACM Transactions on Computing for Healthcare calls for special issue on Large Language Models, Conversational Systems, and Generative AI in Health
+#   sub: MHI
   
-- title: FIN
-  year: 2024
-  id: FIN24
-  full_name: Frontiers in Neuroscience calls for research topic on Deep Learning Methods and Applications in Brain Imaging for the Diagnosis of Neurological and Psychiatric Disorders
-  link: https://www.frontiersin.org/research-topics/58627/deep-learning-methods-and-applications-in-brain-imaging-for-the-diagnosis-of-neurological-and-psychiatric-disorders
-  deadline: 2024/01/17 23:59
-  timezone: America/New_York
-  place: NA
-  date: January 17 - 17, 2024
-  start: 01/17/2024
-  end: 01/17/2024  
-  note: Frontiers in Neuroscience calls for research topic on Deep Learning Methods and Applications in Brain Imaging for the Diagnosis of Neurological and Psychiatric Disorders
-  sub: MHI
+# - title: FIN
+#   year: 2024
+#   id: FIN24
+#   full_name: Frontiers in Neuroscience calls for research topic on Deep Learning Methods and Applications in Brain Imaging for the Diagnosis of Neurological and Psychiatric Disorders
+#   link: https://www.frontiersin.org/research-topics/58627/deep-learning-methods-and-applications-in-brain-imaging-for-the-diagnosis-of-neurological-and-psychiatric-disorders
+#   deadline: 2024/01/17 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: January 17 - 17, 2024
+#   start: 01/17/2024
+#   end: 01/17/2024  
+#   note: Frontiers in Neuroscience calls for research topic on Deep Learning Methods and Applications in Brain Imaging for the Diagnosis of Neurological and Psychiatric Disorders
+#   sub: MHI
 
-- title: TIST
-  year: 2024
-  id: TIST24
-  full_name: ACM Transactions on Intelligent Systems and Technology calls for special issue on Reliable Artificial Intelligence for Digital Health
-  link: https://dl.acm.org/pb-assets/static_journal_pages/tist/pdf/ACM_TIST_CFP_reliabeAI.pdf
-  deadline: 2024/03/01 23:59
-  timezone: America/New_York
-  place: NA
-  date: October 01 - 01, 2024
-  start: 10/01/2024
-  end: 10/01/2024  
-  note: ACM Transactions on Intelligent Systems and Technology calls for special issue on Reliable Artificial Intelligence for Digital Health. Submissions must be prepared according to the TIST submission guidelines (https://dl.acm.org/journal/tist/author-guidelines) and must be submitted via Manuscript Central (https://mc.manuscriptcentral.com/tist). The special issue will also consider extended versions of papers published at conferences.
-  sub: ML
+# - title: TIST
+#   year: 2024
+#   id: TIST24
+#   full_name: ACM Transactions on Intelligent Systems and Technology calls for special issue on Reliable Artificial Intelligence for Digital Health
+#   link: https://dl.acm.org/pb-assets/static_journal_pages/tist/pdf/ACM_TIST_CFP_reliabeAI.pdf
+#   deadline: 2024/03/01 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: October 01 - 01, 2024
+#   start: 10/01/2024
+#   end: 10/01/2024  
+#   note: ACM Transactions on Intelligent Systems and Technology calls for special issue on Reliable Artificial Intelligence for Digital Health. Submissions must be prepared according to the TIST submission guidelines (https://dl.acm.org/journal/tist/author-guidelines) and must be submitted via Manuscript Central (https://mc.manuscriptcentral.com/tist). The special issue will also consider extended versions of papers published at conferences.
+#   sub: ML
   
 - title: ACL
   year: 2025
@@ -223,33 +236,33 @@
   note: 'NA'
   sub: ML
   
-- title: ACLLM
-  year: 2024
-  id: ACLLM24
-  full_name: ACL 2024 Workshop Language + Molecules
-  link: https://language-plus-molecules.github.io/
-  deadline: 2024/05/07 23:59
-  timezone: America/New_York
-  place: Remote
-  date: August 12 - August 17, 2024
-  start: 08/12/2024
-  end: 08/17/2024  
-  note: 'hybrid in Bangkok, Thailand & Remote'
-  sub: MHI
+# - title: ACLLM
+#   year: 2024
+#   id: ACLLM24
+#   full_name: ACL 2024 Workshop Language + Molecules
+#   link: https://language-plus-molecules.github.io/
+#   deadline: 2024/05/07 23:59
+#   timezone: America/New_York
+#   place: Remote
+#   date: August 12 - August 17, 2024
+#   start: 08/12/2024
+#   end: 08/17/2024  
+#   note: 'hybrid in Bangkok, Thailand & Remote'
+#   sub: MHI
     
-- title: AIME
-  year: 2024
-  id: AIME24
-  full_name: International Conference on Artificial Intelligence in Medicine
-  link: https://aime24.aimedicine.info/
-  deadline: 2024/03/11 23:59
-  timezone: America/New_York
-  place: Salt Lake City, United States
-  date: July 09 - July 12, 2024
-  start: 07/09/2024
-  end: 07/12/2024  
-  note: 'Deadlines to be updated'
-  sub: MHI
+# - title: AIME
+#   year: 2024
+#   id: AIME24
+#   full_name: International Conference on Artificial Intelligence in Medicine
+#   link: https://aime24.aimedicine.info/
+#   deadline: 2024/03/11 23:59
+#   timezone: America/New_York
+#   place: Salt Lake City, United States
+#   date: July 09 - July 12, 2024
+#   start: 07/09/2024
+#   end: 07/12/2024  
+#   note: 'Deadlines to be updated'
+#   sub: MHI
    
 - title: AAIC
   year: 2025
@@ -265,47 +278,47 @@
   note: 'Deadline for abstracts'
   sub: AD
   
-- title: CHIL
-  year: 2024
-  id: CHIL24
-  full_name: Conference on Health, Inference, and Learning
-  link: https://www.chilconference.org/call-for-papers.html
-  deadline: 2024/02/05 23:59
-  timezone: America/New_York
-  place: New York, United States
-  date: June 27 - 28, 2024
-  start: 06/27/2024
-  end: 06/28/2024  
-  note: Accepted papers will be published in the Proceedings of Machine Learning Research (PMLR)
-  sub: MHI
+# - title: CHIL
+#   year: 2024
+#   id: CHIL24
+#   full_name: Conference on Health, Inference, and Learning
+#   link: https://www.chilconference.org/call-for-papers.html
+#   deadline: 2024/02/05 23:59
+#   timezone: America/New_York
+#   place: New York, United States
+#   date: June 27 - 28, 2024
+#   start: 06/27/2024
+#   end: 06/28/2024  
+#   note: Accepted papers will be published in the Proceedings of Machine Learning Research (PMLR)
+#   sub: MHI
   
-- title: ISBI
-  year: 2024
-  id: ISBI24
-  full_name: IEEE International Symposium on Biomedical Imaging
-  link: https://biomedicalimaging.org/2024/
-  deadline: 2023/11/10 23:59
-  timezone: America/New_York
-  place: Athens, Greece
-  date: May 27 - 30, 2024
-  start: 5/27/2024
-  end: 5/30/2024  
-  note: NA
-  sub: IM
+# - title: ISBI
+#   year: 2024
+#   id: ISBI24
+#   full_name: IEEE International Symposium on Biomedical Imaging
+#   link: https://biomedicalimaging.org/2024/
+#   deadline: 2023/11/10 23:59
+#   timezone: America/New_York
+#   place: Athens, Greece
+#   date: May 27 - 30, 2024
+#   start: 5/27/2024
+#   end: 5/30/2024  
+#   note: NA
+#   sub: IM
   
-- title: ISBITMI
-  year: 2024
-  id: ISBI24TMI
-  full_name: TMI Journal Special Issue track for ISBI2024
-  link: http://hubs.la/Q02lN0k-0
-  deadline: 2024/07/01 23:59
-  timezone: America/New_York
-  place: NA
-  date: July 01 - 01, 2024
-  start: 7/01/2024
-  end: 7/01/2024  
-  note: We are excited to offer a new Journal Special Issue track at ISBI2024, IEEE Transactions on Medical Imaging Advancements in Foundation Models for Medical Imaging. The submission deadline is 1 July 2024 (see website)
-  sub: IM
+# - title: ISBITMI
+#   year: 2024
+#   id: ISBI24TMI
+#   full_name: TMI Journal Special Issue track for ISBI2024
+#   link: http://hubs.la/Q02lN0k-0
+#   deadline: 2024/07/01 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: July 01 - 01, 2024
+#   start: 7/01/2024
+#   end: 7/01/2024  
+#   note: We are excited to offer a new Journal Special Issue track at ISBI2024, IEEE Transactions on Medical Imaging Advancements in Foundation Models for Medical Imaging. The submission deadline is 1 July 2024 (see website)
+#   sub: IM
   
 - title: AMIACIC
   year: 2025
@@ -321,161 +334,161 @@
   note: NA
   full_name: AMIA 2025 Clinical Informatics Conference
 
-- title: ECCV
-  year: 2024
-  id: eccv24
-  link: https://eccv2024.ecva.net/
-  deadline: 2024/03/07 23:59
-  timezone: UTC-12
-  place: Milano, Italy
-  date: September 29 - October 04, 2024
-  start: 2024-09-29
-  end: 2024-10-04
-  hindex: 238
-  sub: IM
-  note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
+# - title: ECCV
+#   year: 2024
+#   id: eccv24
+#   link: https://eccv2024.ecva.net/
+#   deadline: 2024/03/07 23:59
+#   timezone: UTC-12
+#   place: Milano, Italy
+#   date: September 29 - October 04, 2024
+#   start: 2024-09-29
+#   end: 2024-10-04
+#   hindex: 238
+#   sub: IM
+#   note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
   
   
-- title: Mathematics
-  year: 2023
-  id: Mathematics23
-  full_name: Mathematics journal calls for special issue on Computer Graphics, Visualization and Medical Imaging Theory and Applications
-  link: https://www.mdpi.com/journal/mathematics/special_issues/US1L46M3M2
-  deadline: 2023/12/31 23:59
-  timezone: America/New_York
-  place: NA
-  date: December 31 - 31, 2023
-  start: 12/31/2023
-  end: 12/31/2023  
-  note: publication fee may be free
-  sub: IM
+# - title: Mathematics
+#   year: 2023
+#   id: Mathematics23
+#   full_name: Mathematics journal calls for special issue on Computer Graphics, Visualization and Medical Imaging Theory and Applications
+#   link: https://www.mdpi.com/journal/mathematics/special_issues/US1L46M3M2
+#   deadline: 2023/12/31 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: December 31 - 31, 2023
+#   start: 12/31/2023
+#   end: 12/31/2023  
+#   note: publication fee may be free
+#   sub: IM
   
-- title: CSBJ
-  year: 2023
-  id: CSBJ23
-  full_name: Computational and Structural Biotechnology Journal calls for special issue on Intelligent Biology and Medicine
-  link: https://www.csbj.org/call_intelligent_biomed
-  deadline: 2023/11/30 23:59
-  timezone: America/New_York
-  place: NA
-  date: November 30 - 30, 2023
-  start: 11/30/2023
-  end: 11/30/2023  
-  note: If submit before the deadline, the review process starts asap; average time for 1st decision is 40 days.
-  sub: BI
+# - title: CSBJ
+#   year: 2023
+#   id: CSBJ23
+#   full_name: Computational and Structural Biotechnology Journal calls for special issue on Intelligent Biology and Medicine
+#   link: https://www.csbj.org/call_intelligent_biomed
+#   deadline: 2023/11/30 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: November 30 - 30, 2023
+#   start: 11/30/2023
+#   end: 11/30/2023  
+#   note: If submit before the deadline, the review process starts asap; average time for 1st decision is 40 days.
+#   sub: BI
   
-- title: ML4H
-  year: 2023
-  id: ML4H23
-  full_name: Machine Learning for Health
-  link: https://ml4health.github.io/2023/
-  deadline: 2023/09/07 23:59
-  timezone: America/New_York
-  place: New Orleans, United States
-  date: December 10 - 10, 2023
-  start: 12/10/2023
-  end: 12/10/2023  
-  note: Decisions released on Nov 1st.
-  sub: MHI
+# - title: ML4H
+#   year: 2023
+#   id: ML4H23
+#   full_name: Machine Learning for Health
+#   link: https://ml4health.github.io/2023/
+#   deadline: 2023/09/07 23:59
+#   timezone: America/New_York
+#   place: New Orleans, United States
+#   date: December 10 - 10, 2023
+#   start: 12/10/2023
+#   end: 12/10/2023  
+#   note: Decisions released on Nov 1st.
+#   sub: MHI
 
   
-- title: BMC_BioDataMining
-  year: 2023
-  id: BMCBDM23
-  full_name: BMC BioData Mining Journal is calling for the collection of Machine Learning Approaches for Early Diagnosis of Alzheimer’s Disease
-  link: https://www.biomedcentral.com/collections/MLAEDAD
-  deadline: 2024/02/15 23:59
-  timezone: America/New_York
-  place: NA
-  date: Feburary 15 - 15, 2024
-  start: 02/15/2024
-  end: 02/15/2024  
-  note: Jason Moore is editing this special collection for the journal.
-  sub: AD
+# - title: BMC_BioDataMining
+#   year: 2023
+#   id: BMCBDM23
+#   full_name: BMC BioData Mining Journal is calling for the collection of Machine Learning Approaches for Early Diagnosis of Alzheimer’s Disease
+#   link: https://www.biomedcentral.com/collections/MLAEDAD
+#   deadline: 2024/02/15 23:59
+#   timezone: America/New_York
+#   place: NA
+#   date: Feburary 15 - 15, 2024
+#   start: 02/15/2024
+#   end: 02/15/2024  
+#   note: Jason Moore is editing this special collection for the journal.
+#   sub: AD
   
   
-- title: CSH_Asia
-  year: 2023
-  id: CSHA23
-  full_name: Cold Spring Harbor Asia conference on Systems Biology of Gene Regulation and Genome Editing
-  link: https://www.csh-asia.org/?content/332
-  deadline: 2023/08/18 23:59
-  timezone: Beijing
-  place: Suzhou, China
-  date: October 23 - 27, 2023
-  start: 10/23/2023
-  end: 10/27/2023  
-  note: The conference will include eight oral sessions and one poster session covering the latest findings across many topics in system biology.
-  sub: BI
+# - title: CSH_Asia
+#   year: 2023
+#   id: CSHA23
+#   full_name: Cold Spring Harbor Asia conference on Systems Biology of Gene Regulation and Genome Editing
+#   link: https://www.csh-asia.org/?content/332
+#   deadline: 2023/08/18 23:59
+#   timezone: Beijing
+#   place: Suzhou, China
+#   date: October 23 - 27, 2023
+#   start: 10/23/2023
+#   end: 10/27/2023  
+#   note: The conference will include eight oral sessions and one poster session covering the latest findings across many topics in system biology.
+#   sub: BI
   
   
-- title: BI
-  year: 2023
-  id: bi23
-  full_name: International Conference on Brain Informatics
-  link: https://wi-consortium.org/conferences/bi2023/
-  deadline: 2023/04/15 23:59
-  timezone: America/New_York
-  place: Hoboken and New York, USA
-  date: August 1 - 3, 2023
-  start: 8/1/2023
-  end: 8/3/2023  
-  note: The key theme for this year is Brain Science meets Artificial Intelligence
-  sub: MHI
+# - title: BI
+#   year: 2023
+#   id: bi23
+#   full_name: International Conference on Brain Informatics
+#   link: https://wi-consortium.org/conferences/bi2023/
+#   deadline: 2023/04/15 23:59
+#   timezone: America/New_York
+#   place: Hoboken and New York, USA
+#   date: August 1 - 3, 2023
+#   start: 8/1/2023
+#   end: 8/3/2023  
+#   note: The key theme for this year is Brain Science meets Artificial Intelligence
+#   sub: MHI
   
-- title: BHI
-  year: 2024
-  id: bhi24
-  full_name: IEEE-EMBS International Conference on Biomedical and Health Informatics
-  link: https://bhi.embs.org/2024/
-  deadline: 2024/07/03 23:59
-  timezone: America/New_York
-  place: Houston, USA
-  date: November 10 - 13, 2024
-  start: 11/10/2024
-  end: 11/13/2024
-  sub: MHI
+# - title: BHI
+#   year: 2024
+#   id: bhi24
+#   full_name: IEEE-EMBS International Conference on Biomedical and Health Informatics
+#   link: https://bhi.embs.org/2024/
+#   deadline: 2024/07/03 23:59
+#   timezone: America/New_York
+#   place: Houston, USA
+#   date: November 10 - 13, 2024
+#   start: 11/10/2024
+#   end: 11/13/2024
+#   sub: MHI
   
-- title: ICDM
-  year: 2023
-  id: icdm23
-  full_name: IEEE International Conference on Data Mining
-  link: https://www.cloud-conf.net/icdm2023/
-  deadline: 2023/07/01 23:59
-  timezone: Beijing
-  place: Shanghai, China
-  date: December 1 - 4, 2023
-  start: 12/1/2023
-  end: 12/4/2023
-  hindex: -1
-  sub: DM
+# - title: ICDM
+#   year: 2023
+#   id: icdm23
+#   full_name: IEEE International Conference on Data Mining
+#   link: https://www.cloud-conf.net/icdm2023/
+#   deadline: 2023/07/01 23:59
+#   timezone: Beijing
+#   place: Shanghai, China
+#   date: December 1 - 4, 2023
+#   start: 12/1/2023
+#   end: 12/4/2023
+#   hindex: -1
+#   sub: DM
 
-- title: UAI
-  year: 2023
-  id: uai23
-  link: https://www.auai.org/uai2023/
-  deadline: 2023/02/17 23:59
-  timezone: UTC
-  date: July 31 - August 4, 2023
-  start: 7/31/2023
-  end: 8/04/2023  
-  place: Pittsburgh, PA
-  sub: ML
-  full_name: Uncertainty in Artificial Intelligence
+# - title: UAI
+#   year: 2023
+#   id: uai23
+#   link: https://www.auai.org/uai2023/
+#   deadline: 2023/02/17 23:59
+#   timezone: UTC
+#   date: July 31 - August 4, 2023
+#   start: 7/31/2023
+#   end: 8/04/2023  
+#   place: Pittsburgh, PA
+#   sub: ML
+#   full_name: Uncertainty in Artificial Intelligence
 
-- title: MIDL
-  year: 2023
-  id: MIDL23
-  link: https://2023.midl.io/
-  deadline: 2023/01/15 09:59
-  timezone: America/New_York
-  date: July 10 - July 12, 2023
-  start: 7/10/2023
-  end: 7/12/2023
-  place: Nashville, USA
-  sub: IM
-  note: Short papers submission deadline is on 7 April. 
-  full_name: Medical Imaging with Deep Learning
+# - title: MIDL
+#   year: 2023
+#   id: MIDL23
+#   link: https://2023.midl.io/
+#   deadline: 2023/01/15 09:59
+#   timezone: America/New_York
+#   date: July 10 - July 12, 2023
+#   start: 7/10/2023
+#   end: 7/12/2023
+#   place: Nashville, USA
+#   sub: IM
+#   note: Short papers submission deadline is on 7 April. 
+#   full_name: Medical Imaging with Deep Learning
   
 - title: MICCAI
   year: 2025
@@ -508,92 +521,92 @@
 
 
 
-- title: AIME
-  year: 2023
-  id: AIME23
-  link: https://aime23.aimedicine.info/
-  deadline: 2023/01/15 23:59
-  timezone: America/New_York
-  date: June 12 - June 15, 2023
-  start: 06/12/2023
-  end: 06/15/2023
-  place: Portoroz, Slovenia
-  sub: MHI
-  note: 'Various Deadlines'
-  full_name: 21st International Conference of Artificial Intelligence in Medicine
+# - title: AIME
+#   year: 2023
+#   id: AIME23
+#   link: https://aime23.aimedicine.info/
+#   deadline: 2023/01/15 23:59
+#   timezone: America/New_York
+#   date: June 12 - June 15, 2023
+#   start: 06/12/2023
+#   end: 06/15/2023
+#   place: Portoroz, Slovenia
+#   sub: MHI
+#   note: 'Various Deadlines'
+#   full_name: 21st International Conference of Artificial Intelligence in Medicine
   
   
-- title: IPMI
-  year: 2023
-  id: IPMI23
-  link: https://www.ipmi2023.org/en/
-  deadline: 2022/12/09 23:59
-  timezone: America/New_York
-  date: June 19 - June 23, 2023
-  start: 06/19/2023
-  end: 06/23/2023
-  place: San Carlos De Bariloche, Argentina
-  sub: IM
-  note: 'Various Deadlines'
-  full_name: 28th biennial international conference on Information Processing in Medical Imaging
+# - title: IPMI
+#   year: 2023
+#   id: IPMI23
+#   link: https://www.ipmi2023.org/en/
+#   deadline: 2022/12/09 23:59
+#   timezone: America/New_York
+#   date: June 19 - June 23, 2023
+#   start: 06/19/2023
+#   end: 06/23/2023
+#   place: San Carlos De Bariloche, Argentina
+#   sub: IM
+#   note: 'Various Deadlines'
+#   full_name: 28th biennial international conference on Information Processing in Medical Imaging
   
   
-- title: CYTO
-  year: 2023
-  id: CYTO23
-  link: https://isac-net.org/events/EventDetails.aspx?id=1505581
-  deadline: 2023/1/13 23:59
-  timezone: America/New_York
-  date: May 20 - May 24, 2023
-  start: 5/20/2023
-  end: 5/24/2023
-  place: Montreal, Canada
-  sub: MHI
-  note: 'Various Deadlines'
-  full_name: Congress for the International Society for the Advancement of Cytometry
+# - title: CYTO
+#   year: 2023
+#   id: CYTO23
+#   link: https://isac-net.org/events/EventDetails.aspx?id=1505581
+#   deadline: 2023/1/13 23:59
+#   timezone: America/New_York
+#   date: May 20 - May 24, 2023
+#   start: 5/20/2023
+#   end: 5/24/2023
+#   place: Montreal, Canada
+#   sub: MHI
+#   note: 'Various Deadlines'
+#   full_name: Congress for the International Society for the Advancement of Cytometry
   
-- title: AMIA2023ClinicalInformatics
-  year: 2023
-  id: AMIACli23
-  link: https://amia.org/education-events/amia-2023-clinical-informatics-conference
-  deadline: 2022/11/30 23:59
-  timezone: America/New_York
-  date: May 23 - May 25, 2023
-  start: 5/23/2023
-  end: 5/25/2023
-  place: Chicago, IL
-  sub: MHI
-  note: 'Various Deadlines'
-  full_name:  2023 Clinical Informatics Conference
+# - title: AMIA2023ClinicalInformatics
+#   year: 2023
+#   id: AMIACli23
+#   link: https://amia.org/education-events/amia-2023-clinical-informatics-conference
+#   deadline: 2022/11/30 23:59
+#   timezone: America/New_York
+#   date: May 23 - May 25, 2023
+#   start: 5/23/2023
+#   end: 5/25/2023
+#   place: Chicago, IL
+#   sub: MHI
+#   note: 'Various Deadlines'
+#   full_name:  2023 Clinical Informatics Conference
 
-- title: ISBI
-  year: 2023
-  id: ISBI23
-  link: https://2023.biomedicalimaging.org/en/
-  deadline: 2022/11/10 23:59
-  timezone: America/New_York
-  date: April 18 - April 21, 2023
-  start: 4/18/2023
-  end: 4/21/2023
-  place: Cartagena de Indias, Colombia
-  sub: IM
-  note: 'Various Deadlines'
-  full_name: International Symposium on Biomedical Imaging
+# - title: ISBI
+#   year: 2023
+#   id: ISBI23
+#   link: https://2023.biomedicalimaging.org/en/
+#   deadline: 2022/11/10 23:59
+#   timezone: America/New_York
+#   date: April 18 - April 21, 2023
+#   start: 4/18/2023
+#   end: 4/21/2023
+#   place: Cartagena de Indias, Colombia
+#   sub: IM
+#   note: 'Various Deadlines'
+#   full_name: International Symposium on Biomedical Imaging
   
 
-- title: OHBM
-  year: 2023
-  id: ohbm23
-  link: https://www.humanbrainmapping.org/
-  deadline: 2023/01/13 23:59
-  timezone: America/New_York
-  date: June 22 - June 26, 2023
-  start: 6/22/2023
-  end: 6/26/2022
-  place: Montreal, Canada
-  sub: IM
-  note: 'Deadlines to be updated'
-  full_name: Organization for Human Brain Mapping
+# - title: OHBM
+#   year: 2023
+#   id: ohbm23
+#   link: https://www.humanbrainmapping.org/
+#   deadline: 2023/01/13 23:59
+#   timezone: America/New_York
+#   date: June 22 - June 26, 2023
+#   start: 6/22/2023
+#   end: 6/26/2022
+#   place: Montreal, Canada
+#   sub: IM
+#   note: 'Deadlines to be updated'
+#   full_name: Organization for Human Brain Mapping
 
 
 # - title: AAIC
@@ -627,19 +640,19 @@
   full_name: Intelligent Systems for Molecular Biology
 
 
-- title: ECCB
-  year: 2024
-  id: eccb24
-  link: https://eccb2024.fi/
-  deadline: 2024/04/04 23:59
-  timezone: UTC+2
-  date: September 16 - September 20, 2024
-  start: 9/16/2024
-  end: 9/20/2024
-  place: Logomo, Finland
-  sub: BI
-  note: additional deadlines for workshops and tutorials, talks and posters
-  full_name: European Conference on Computational Biology  
+# - title: ECCB
+#   year: 2024
+#   id: eccb24
+#   link: https://eccb2024.fi/
+#   deadline: 2024/04/04 23:59
+#   timezone: UTC+2
+#   date: September 16 - September 20, 2024
+#   start: 9/16/2024
+#   end: 9/20/2024
+#   place: Logomo, Finland
+#   sub: BI
+#   note: additional deadlines for workshops and tutorials, talks and posters
+#   full_name: European Conference on Computational Biology  
 
 
 - title: AMIA Informatics Summit
@@ -658,20 +671,20 @@
   note: Decisions for all formats will be announced in early December
   
   
-- title: SPIE
-  year: 2023
-  id: spie23
-  full_name: SPIE Medical Imaging
-  link: https://spie.org/conferences-and-exhibitions/medical-imaging
-  deadline: 2022/08/10 23:59
-  timezone: America/New_York
-  place: San Diego, California, United States
-  date: February 19 - February 23, 2023
-  start: 2/19/2023
-  end: 2/23/2023
-  sub: IM
-  ranking: NA
-  note: Browse the different (sub)conferences, select the one want to submit to, and click the button to submit an abstract. Manuscript due on Feb 1, 2023
+# - title: SPIE
+#   year: 2023
+#   id: spie23
+#   full_name: SPIE Medical Imaging
+#   link: https://spie.org/conferences-and-exhibitions/medical-imaging
+#   deadline: 2022/08/10 23:59
+#   timezone: America/New_York
+#   place: San Diego, California, United States
+#   date: February 19 - February 23, 2023
+#   start: 2/19/2023
+#   end: 2/23/2023
+#   sub: IM
+#   ranking: NA
+#   note: Browse the different (sub)conferences, select the one want to submit to, and click the button to submit an abstract. Manuscript due on Feb 1, 2023
   
   
 - title: IJCAI
@@ -733,148 +746,148 @@
   note: paper registeration by Oct 16 and submission by Oct 25 (AOE). Author notification on December 16 2024
   full_name: Annual International Conference on Research in Computational Molecular Biology
   
-- title: ISMB
-  year: 2022
-  id: ismb22
-  link: https://www.iscb.org/ismb2022
-  deadline: 2022/04/21 23:59
-  timezone: UTC+14
-  date: July 10 - July 14, 2022
-  start: 7/10/2022
-  end: 7/14/2022
-  place: Madison, USA
-  sub: BI
-  note: 'Abstract Submission Deadline: 21 April 2022'
-  full_name: Intelligent Systems for Molecular Biology
+# - title: ISMB
+#   year: 2022
+#   id: ismb22
+#   link: https://www.iscb.org/ismb2022
+#   deadline: 2022/04/21 23:59
+#   timezone: UTC+14
+#   date: July 10 - July 14, 2022
+#   start: 7/10/2022
+#   end: 7/14/2022
+#   place: Madison, USA
+#   sub: BI
+#   note: 'Abstract Submission Deadline: 21 April 2022'
+#   full_name: Intelligent Systems for Molecular Biology
 
-- title: AHD
-  year: 2022
-  id: ahd22
-  link: https://alz.org/diversity-health-disparity-conference-alzheimers-dementia/overview.asp
-  deadline: 2022/04/22 23:59
-  timezone: America/New_York
-  date: June 21 - June 22, 2022
-  start: 6/21/2022
-  end: 6/22/2022
-  place: Washington DC, USA
-  sub: AD
-  full_name: Alzheimer's Association Addressing Health Disparities
+# - title: AHD
+#   year: 2022
+#   id: ahd22
+#   link: https://alz.org/diversity-health-disparity-conference-alzheimers-dementia/overview.asp
+#   deadline: 2022/04/22 23:59
+#   timezone: America/New_York
+#   date: June 21 - June 22, 2022
+#   start: 6/21/2022
+#   end: 6/22/2022
+#   place: Washington DC, USA
+#   sub: AD
+#   full_name: Alzheimer's Association Addressing Health Disparities
   
-- title: AAIC
-  year: 2022
-  id: aaic22
-  link: https://aaic.alz.org/overview.asp
-  deadline: 2022/01/31 23:59
-  abstract_deadline: 2022/04/25 23:59
-  timezone: America/New_York
-  date: July 31 - August 4, 2022
-  start: 7/31/2022
-  end: 8/4/2022
-  place: San Diego, USA
-  sub: AD
-  note: Update submission info for 2023
-  full_name: Alzheimer's Association International Conference
+# - title: AAIC
+#   year: 2022
+#   id: aaic22
+#   link: https://aaic.alz.org/overview.asp
+#   deadline: 2022/01/31 23:59
+#   abstract_deadline: 2022/04/25 23:59
+#   timezone: America/New_York
+#   date: July 31 - August 4, 2022
+#   start: 7/31/2022
+#   end: 8/4/2022
+#   place: San Diego, USA
+#   sub: AD
+#   note: Update submission info for 2023
+#   full_name: Alzheimer's Association International Conference
   
-- title: ACM-BCB
-  year: 2024
-  id: acmbcb24
-  link: https://hpcc.siat.ac.cn/acm-bcb2024/index.php
-  deadline: 2024/07/15 23:59
-  timezone: America/New_York
-  date: November 22 - November 25, 2024
-  start: 11/22/2024
-  end: 11/25/2024
-  place: Shenzhen, China
-  sub: BI
-  note: Notification of acceptance on Sept 22, 2024
-  full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
+# - title: ACM-BCB
+#   year: 2024
+#   id: acmbcb24
+#   link: https://hpcc.siat.ac.cn/acm-bcb2024/index.php
+#   deadline: 2024/07/15 23:59
+#   timezone: America/New_York
+#   date: November 22 - November 25, 2024
+#   start: 11/22/2024
+#   end: 11/25/2024
+#   place: Shenzhen, China
+#   sub: BI
+#   note: Notification of acceptance on Sept 22, 2024
+#   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
 
-- title: AMIA
-  year: 2024
-  id: amia24
-  link: https://amia.org/education-events/annual-symposium
-  deadline: 2024/3/18 23:59
-  timezone: America/New_York
-  date: November 9 - November 13, 2024
-  start: 11/09/2024
-  end: 11/13/2024
-  place: San Francisco, USA
-  sub: MHI
-  note: The theme of AMIA 2024 Annual Symposium is Informatics in the Age of Generative Artificial Intelligence.
-  full_name: American Medical Informatics Association Annual Symposium
+# - title: AMIA
+#   year: 2024
+#   id: amia24
+#   link: https://amia.org/education-events/annual-symposium
+#   deadline: 2024/3/18 23:59
+#   timezone: America/New_York
+#   date: November 9 - November 13, 2024
+#   start: 11/09/2024
+#   end: 11/13/2024
+#   place: San Francisco, USA
+#   sub: MHI
+#   note: The theme of AMIA 2024 Annual Symposium is Informatics in the Age of Generative Artificial Intelligence.
+#   full_name: American Medical Informatics Association Annual Symposium
   
-- title: NeurIPS
-  year: 2024
-  id: neurips24
-  full_name: Neural Information Processing Systems
-  link: https://neurips.cc/
-  deadline: 2024/05/22 9:00
-  timezone: America/New_York
-  place: Vancouver, Canada
-  date: December 9 - December 15, 2024
-  start: 12/9/2024
-  end: 12/15/2024
-  hindex: 198
-  sub: ML
-  ranking: A
-  note: Also may have bioinformatics track in the main conference and workshops
+# - title: NeurIPS
+#   year: 2024
+#   id: neurips24
+#   full_name: Neural Information Processing Systems
+#   link: https://neurips.cc/
+#   deadline: 2024/05/22 9:00
+#   timezone: America/New_York
+#   place: Vancouver, Canada
+#   date: December 9 - December 15, 2024
+#   start: 12/9/2024
+#   end: 12/15/2024
+#   hindex: 198
+#   sub: ML
+#   ranking: A
+#   note: Also may have bioinformatics track in the main conference and workshops
   
-- title: ASHG
-  year: 2024
-  id: ashg24
-  link: https://www.ashg.org/meetings/2024meeting/program/abstracts/
-  deadline: 2024/06/05 17:59
-  timezone: America/New_York
-  date: November 5 - November 9, 2024
-  start: 11/05/2024
-  end: 11/09/2024
-  place: Denver CO, USA
-  sub: GM
-  note: Hotel reservations Opens Early May
-  full_name: American Society of Human Genetics
+# - title: ASHG
+#   year: 2024
+#   id: ashg24
+#   link: https://www.ashg.org/meetings/2024meeting/program/abstracts/
+#   deadline: 2024/06/05 17:59
+#   timezone: America/New_York
+#   date: November 5 - November 9, 2024
+#   start: 11/05/2024
+#   end: 11/09/2024
+#   place: Denver CO, USA
+#   sub: GM
+#   note: Hotel reservations Opens Early May
+#   full_name: American Society of Human Genetics
   
-- title: ICIBM
-  year: 2024
-  id: icibm24
-  link: https://icibm2024.iaibm.org/
-  deadline: 2024/07/05 09:59
-  timezone: America/New_York
-  date: October 10 - October 12, 2024
-  start: 10/10/2024
-  end: 10/12/2024
-  place: Houston, USA
-  sub: BI
-  note: Selected papers will be on Cancers, Quantitative Biology, Information, International Journal of Medical Sciences
-  full_name: International Conference on Intelligent Biology and Medicine
+# - title: ICIBM
+#   year: 2024
+#   id: icibm24
+#   link: https://icibm2024.iaibm.org/
+#   deadline: 2024/07/05 09:59
+#   timezone: America/New_York
+#   date: October 10 - October 12, 2024
+#   start: 10/10/2024
+#   end: 10/12/2024
+#   place: Houston, USA
+#   sub: BI
+#   note: Selected papers will be on Cancers, Quantitative Biology, Information, International Journal of Medical Sciences
+#   full_name: International Conference on Intelligent Biology and Medicine
   
-- title: MidAtlBioinfo
-  year: 2022
-  id: midatlbioinfo22
-  link: https://www.midatlanticbioinformatics.org/
-  deadline: 2022/08/15 23:59
-  timezone: America/New_York
-  date: October 7 - October 7, 2022
-  start: 10/7/2022
-  end: 10/7/2022
-  place: Philadelphia, USA
-  sub: BI
-  note: At CHOP, organized by Dr. Kim. 
-  full_name: 7th Annual MidAtlantic Bioinformatics Conference
+# - title: MidAtlBioinfo
+#   year: 2022
+#   id: midatlbioinfo22
+#   link: https://www.midatlanticbioinformatics.org/
+#   deadline: 2022/08/15 23:59
+#   timezone: America/New_York
+#   date: October 7 - October 7, 2022
+#   start: 10/7/2022
+#   end: 10/7/2022
+#   place: Philadelphia, USA
+#   sub: BI
+#   note: At CHOP, organized by Dr. Kim. 
+#   full_name: 7th Annual MidAtlantic Bioinformatics Conference
   
-- title: LoG
-  year: 2023
-  id: log23
-  full_name: Learning on Graphs Conference
-  link: https://logconference.github.io/
-  deadline: 2023/08/21 9:00
-  abstract_deadline: 2023/08/11 9:00
-  timezone: America/New_York
-  place: Online
-  date: November 27 - November 30, 2023
-  start: 11/27/2023
-  end: 11/30/2023
-  sub: ML
-  note: Accepted proceedings papers will be published in the Proceedings for Machine Learning Research (PMLR)
+# - title: LoG
+#   year: 2023
+#   id: log23
+#   full_name: Learning on Graphs Conference
+#   link: https://logconference.github.io/
+#   deadline: 2023/08/21 9:00
+#   abstract_deadline: 2023/08/11 9:00
+#   timezone: America/New_York
+#   place: Online
+#   date: November 27 - November 30, 2023
+#   start: 11/27/2023
+#   end: 11/30/2023
+#   sub: ML
+#   note: Accepted proceedings papers will be published in the Proceedings for Machine Learning Research (PMLR)
   
 - title: PSB
   year: 2025
@@ -890,46 +903,46 @@
   note: Other (workshop, travel award, etc.) dates info see <a href='https://psb.stanford.edu/keydates/'>here</a>.
   full_name: Pacific Symposium on Biocomputing
 
-- title: BIBM
-  year: 2024
-  id: bibm24
-  link: https://ieeebibm.org/BIBM2024/
-  deadline: 2024/08/15 23:59
-  timezone: America/New_York
-  date: December 3 - December 6, 2024
-  start: 12/3/2024
-  end: 12/6/2024
-  place: Lisbon, Portugal
-  sub: BI
-  note: Second round deadline on Aug 16 this year
-  full_name: IEEE International Conference on Bioinformatics and Biomedicine
+# - title: BIBM
+#   year: 2024
+#   id: bibm24
+#   link: https://ieeebibm.org/BIBM2024/
+#   deadline: 2024/08/15 23:59
+#   timezone: America/New_York
+#   date: December 3 - December 6, 2024
+#   start: 12/3/2024
+#   end: 12/6/2024
+#   place: Lisbon, Portugal
+#   sub: BI
+#   note: Second round deadline on Aug 16 this year
+#   full_name: IEEE International Conference on Bioinformatics and Biomedicine
 
-- title: BIBMworkshop
-  year: 2024
-  id: bibmws24
-  link: https://sites.google.com/unipv.it/ieee-bibm-2024-workshop21/home?authuser=3
-  deadline: 2024/10/10 23:59
-  timezone: America/New_York
-  date: December 3 - December 6, 2024
-  start: 12/3/2024
-  end: 12/6/2024
-  place: Lisbon, Portugal
-  sub: BI
-  note: Daniele is the chair
-  full_name: IEEE BIBM 2024 Workshop on AI and Computational Methods for Public Health and the Environment
+# - title: BIBMworkshop
+#   year: 2024
+#   id: bibmws24
+#   link: https://sites.google.com/unipv.it/ieee-bibm-2024-workshop21/home?authuser=3
+#   deadline: 2024/10/10 23:59
+#   timezone: America/New_York
+#   date: December 3 - December 6, 2024
+#   start: 12/3/2024
+#   end: 12/6/2024
+#   place: Lisbon, Portugal
+#   sub: BI
+#   note: Daniele is the chair
+#   full_name: IEEE BIBM 2024 Workshop on AI and Computational Methods for Public Health and the Environment
 
-- title: BIGDATA
-  year: 2024
-  id: bigdata24
-  link: http://bigdataieee.org/BigData2024/
-  deadline: 2024/09/08 23:59
-  timezone: America/New_York
-  date: December 15 - December 18, 2024
-  start: 12/15/2024
-  end: 12/18/2024
-  place: Washington DC, USA
-  sub: DM
-  full_name: IEEE International Conference on Big Data
+# - title: BIGDATA
+#   year: 2024
+#   id: bigdata24
+#   link: http://bigdataieee.org/BigData2024/
+#   deadline: 2024/09/08 23:59
+#   timezone: America/New_York
+#   date: December 15 - December 18, 2024
+#   start: 12/15/2024
+#   end: 12/18/2024
+#   place: Washington DC, USA
+#   sub: DM
+#   full_name: IEEE International Conference on Big Data
   
 - title: ICLR
   year: 2025
@@ -991,19 +1004,19 @@
   sub: ML
   
   
-- title: ICCV
-  year: 2023
-  id: iccv2023
-  link: http://iccv2023.thecvf.com/
-  deadline: '2023-03-08 23:59:00'
-  timezone: UTC
-  place: Paris, France
-  date: September 30th - October 6, 2023
-  start: 2023-09-30
-  end: 2023-10-06
-  hindex: 239
-  sub: ML
-  note: Supplementary deadline on Mar 15, 2023. More info <a href='http://iccv2023.thecvf.com/home'>here</a>.
+# - title: ICCV
+#   year: 2023
+#   id: iccv2023
+#   link: http://iccv2023.thecvf.com/
+#   deadline: '2023-03-08 23:59:00'
+#   timezone: UTC
+#   place: Paris, France
+#   date: September 30th - October 6, 2023
+#   start: 2023-09-30
+#   end: 2023-10-06
+#   hindex: 239
+#   sub: ML
+#   note: Supplementary deadline on Mar 15, 2023. More info <a href='http://iccv2023.thecvf.com/home'>here</a>.
   
   
 # - title: InterSpeech
