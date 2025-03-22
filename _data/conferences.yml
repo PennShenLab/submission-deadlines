@@ -1,7 +1,7 @@
 ---
-- title: ieeeJBHI
+- title: ieeeJBHI1
   year: 2025
-  id: JBHI25
+  id: JBHI1
   full_name: IEEE Journal of Biomedical and Health Informatics call for papers Special Issue on Synergizing Multi-modal Agents and Large Foundation Models for Healthcare
   link: https://www.embs.org/jbhi/about-j-bhi/
   deadline: 2025/05/31 23:59
@@ -12,6 +12,20 @@
   end: 05/31/2025  
   note: Cheng Chen-MGH organizes. JCR top, IF 7.7
   sub: AD
+
+- title: ieeeJBHI2
+  year: 2025
+  id: JBHI2
+  full_name: IEEE Journal of Biomedical and Health Informatics call for papers Special Issue on AI-driven Decision-Making for Healthcare Data Science
+  link: https://www.embs.org/jbhi/special-issues/
+  deadline: 2025/07/15 23:59
+  timezone: America/New_York
+  place: NA
+  date: July 15 - 15, 2025
+  start: 07/15/2025
+  end: 07/15/2025  
+  note: JCR top
+  sub: MHI
   
 - title: NeuS
   year: 2025
