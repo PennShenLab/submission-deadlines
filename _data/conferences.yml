@@ -450,18 +450,19 @@
 #   note: The key theme for this year is Brain Science meets Artificial Intelligence
 #   sub: MHI
   
-# - title: BHI
-#   year: 2024
-#   id: bhi24
-#   full_name: IEEE-EMBS International Conference on Biomedical and Health Informatics
-#   link: https://bhi.embs.org/2024/
-#   deadline: 2024/07/03 23:59
-#   timezone: America/New_York
-#   place: Houston, USA
-#   date: November 10 - 13, 2024
-#   start: 11/10/2024
-#   end: 11/13/2024
-#   sub: MHI
+- title: BHI
+  year: 2024
+  id: bhi24
+  full_name: IEEE-EMBS International Conference on Biomedical and Health Informatics
+  link: https://bhi.embs.org/2025/
+  deadline: 2025/05/23 23:59
+  timezone: America/New_York
+  place: Houston, USA
+  date: November 10 - 13, 2024
+  start: 11/10/2024
+  end: 11/13/2024
+  note: Also has 4-7 pages regular conference paper deadline on June 6 
+  sub: MHI
   
 # - title: ICDM
 #   year: 2023
@@ -802,19 +803,19 @@
 #   note: Update submission info for 2023
 #   full_name: Alzheimer's Association International Conference
   
-# - title: ACM-BCB
-#   year: 2024
-#   id: acmbcb24
-#   link: https://hpcc.siat.ac.cn/acm-bcb2024/index.php
-#   deadline: 2024/07/15 23:59
-#   timezone: America/New_York
-#   date: November 22 - November 25, 2024
-#   start: 11/22/2024
-#   end: 11/25/2024
-#   place: Shenzhen, China
-#   sub: BI
-#   note: Notification of acceptance on Sept 22, 2024
-#   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
+- title: ACM-BCB
+  year: 2025
+  id: acmbcb25
+  link: https://acm-bcb.org/
+  deadline: 2025/06/24 23:59
+  timezone: America/New_York
+  date: October 12 - Octobre 15, 2025
+  start: 10/12/2025
+  end: 10/15/2025
+  place: Philadelphia, USA
+  sub: BI
+  note: Notification of acceptance in two months?
+  full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
 
 - title: AMIA
   year: 2025
@@ -830,21 +831,21 @@
   note: The theme of AMIA 2025 Annual Symposium is Informatics in the Age of Generative Artificial Intelligence.
   full_name: American Medical Informatics Association Annual Symposium
   
-# - title: NeurIPS
-#   year: 2024
-#   id: neurips24
-#   full_name: Neural Information Processing Systems
-#   link: https://neurips.cc/
-#   deadline: 2024/05/22 9:00
-#   timezone: America/New_York
-#   place: Vancouver, Canada
-#   date: December 9 - December 15, 2024
-#   start: 12/9/2024
-#   end: 12/15/2024
-#   hindex: 198
-#   sub: ML
-#   ranking: A
-#   note: Also may have bioinformatics track in the main conference and workshops
+- title: NeurIPS
+  year: 2025
+  id: neurips25
+  full_name: Neural Information Processing Systems
+  link: https://neurips.cc/
+  deadline: 2025/05/15 23:59
+  timezone: America/New_York
+  place: San Diego, USA
+  date: December 2 - December 7, 2025
+  start: 12/2/2025
+  end: 12/7/2025
+  hindex: 198
+  sub: ML
+  ranking: A
+  note: Also see call for papers https://neurips.cc/Conferences/2025/CallForPapers
   
 # - title: ASHG
 #   year: 2024
@@ -905,13 +906,13 @@
   
 - title: PSB
   year: 2025
-  id: psb25
-  link: https://psb.stanford.edu/callfor/papers/
-  deadline: 2024/08/01 23:59
+  id: psb26
+  link: https://psb.stanford.edu/
+  deadline: 2025/08/01 23:59
   timezone: America/New_York
-  date: January 4 - January 8, 2025
-  start: 1/4/2025
-  end: 1/8/2025
+  date: January 3 - January 7, 2025
+  start: 1/3/2025
+  end: 1/7/2025
   place: The Big Island of Hawaii, USA
   sub: BI
   note: Other (workshop, travel award, etc.) dates info see <a href='https://psb.stanford.edu/keydates/'>here</a>.
