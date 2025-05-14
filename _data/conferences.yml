@@ -718,19 +718,19 @@
   note: abstract due Jan 16.
 
 - title: AAAI
-  year: 2025
-  id: aaai25
+  year: 2026
+  id: aaai26
   full_name: Association for the Advancement of Artificial Intelligence
-  link: https://aaai.org/conference/aaai/aaai-25/
-  deadline: 2024/08/15 23:59
-  abstract_deadline: 2024/08/07 23:59
+  link: https://aaai.org/conference/aaai/aaai-26/
+  deadline: 2025/08/01 23:59
+  abstract_deadline: 2025/07/25 23:59
   timezone: UTC-12
-  place: PHILADELPHIA, PA, USA
-  date: February 25 - March 4, 2025
-  start: 2/25/2025
-  end: 3/4/2025
+  place: Singapore
+  date: January 20 - January 27, 2026
+  start: 1/20/2026
+  end: 1/27/2026
   sub: ML
-  note: Kevin Leyton-Brown from UBC is the conference committee chair
+  note: 
 
 - title: AAAI_AIMedHealth_workshop
   year: 2025
