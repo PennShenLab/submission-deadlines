@@ -319,20 +319,34 @@
 #   end: 06/28/2024  
 #   note: Accepted papers will be published in the Proceedings of Machine Learning Research (PMLR)
 #   sub: MHI
-  
-# - title: ISBI
-#   year: 2024
-#   id: ISBI24
-#   full_name: IEEE International Symposium on Biomedical Imaging
-#   link: https://biomedicalimaging.org/2024/
-#   deadline: 2023/11/10 23:59
-#   timezone: America/New_York
-#   place: Athens, Greece
-#   date: May 27 - 30, 2024
-#   start: 5/27/2024
-#   end: 5/30/2024  
-#   note: NA
-#   sub: IM
+
+- title: ICHI
+  year: 2026
+  id: ICHI26
+  full_name: IEEE International Conference on Healthcare Informatics
+  link: https://zhang-informatics.github.io/ICHI2026/
+  deadline: 2026/01/31 23:59
+  timezone: America/New_York
+  place: Minneapolis, United States
+  date: June 1 - 4, 2026
+  start: 06/1/2026
+  end: 06/4/2026  
+  note: 3 main tracks for 2026. analytics, human factors, and systems
+  sub: MHI
+
+- title: ISBI
+  year: 2026
+  id: ISBI26
+  full_name: IEEE International Symposium on Biomedical Imaging
+  link: https://biomedicalimaging.org/2026/
+  deadline: 2025/10/31 23:59
+  timezone: America/New_York
+  place: London, UK
+  date: April 8 - 11, 2026
+  start: 4/8/2026
+  end: 4/11/2026  
+  note: NA
+  sub: IM
   
 # - title: ISBITMI
 #   year: 2024
@@ -974,17 +988,17 @@
 #   full_name: IEEE International Conference on Big Data
   
 - title: ICLR
-  year: 2025
-  id: iclr25
+  year: 2026
+  id: iclr26
   full_name: International Conference on Learning Representations
   link: https://iclr.cc/
-  deadline: 2024/10/01 23:59
-  abstract_deadline: 2024/09/27 23:59
+  deadline: 2025/09/24 23:59
+  abstract_deadline: 2025/09/19 23:59
   timezone: America/New_York
-  place: TBD
-  date: May 7 - 11, 2025
-  start: 5/7/2025
-  end: 5/11/2025
+  place: Rio de Janeiro, Brazil
+  date: April 23 - 27, 2026
+  start: 4/23/2026
+  end: 4/27/2026
   hindex: 203
   sub: ML
   ranking: A
