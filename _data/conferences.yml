@@ -1035,15 +1035,15 @@
 
 
 - title: CVPR
-  year: 2025
-  id: cvpr25
-  link: https://cvpr.thecvf.com/Conferences/2025
-  deadline: '2024-11-14 23:59:59'
+  year: 2026
+  id: cvpr26
+  link: https://cvpr.thecvf.com/Conferences/2026
+  deadline: '2025-11-14 23:59:59'
   timezone: America/Los_Angeles
-  place: Nashville, TN
-  date: June 10-17, 2025
-  start: 2025-06-10
-  end: 2025-06-17
+  place: Denver, USA
+  date: June 6-13, 2026
+  start: 2026-06-16
+  end: 2026-06-13
   sub: ML
   
   
