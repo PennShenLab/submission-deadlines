@@ -321,16 +321,16 @@
 #   sub: MHI
    
 - title: AAIC
-  year: 2025
-  id: AAIC25
+  year: 2026
+  id: AAIC26
   full_name: Alzheimers Association International Conference
   link: https://aaic.alz.org/
-  deadline: 2025/01/27 23:59
+  deadline: 2026/01/16 23:59
   timezone: America/New_York
-  place: Toronto, Canada
-  date: July 27 - July 31, 2025
-  start: 07/27/2025
-  end: 07/31/2025  
+  place: London, United Kingdom
+  date: July 12 - July 15, 2026
+  start: 07/12/2026
+  end: 07/15/2026  
   note: 'Deadline for abstracts'
   sub: AD
   
@@ -404,19 +404,19 @@
   note: NA
   full_name: AMIA 2025 Clinical Informatics Conference
 
-# - title: ECCV
-#   year: 2024
-#   id: eccv24
-#   link: https://eccv2024.ecva.net/
-#   deadline: 2024/03/07 23:59
-#   timezone: UTC-12
-#   place: Milano, Italy
-#   date: September 29 - October 04, 2024
-#   start: 2024-09-29
-#   end: 2024-10-04
-#   hindex: 238
-#   sub: IM
-#   note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
+- title: ECCV
+  year: 2026
+  id: eccv26
+  link: https://eccv.ecva.net/
+  deadline: 2026/03/06 23:59
+  timezone: UTC-12
+  place: Malmo, Sweden
+  date: September 8-13, 2026
+  start: 2026-09-08
+  end: 2026-09-13
+  hindex: 238
+  sub: IM
+  note: More info <a href='https://eccv.ecva.net/'>here</a>.
   
   
 # - title: Mathematics
@@ -548,9 +548,9 @@
 #   full_name: Uncertainty in Artificial Intelligence
 
 # - title: MIDL
-#   year: 2023
-#   id: MIDL23
-#   link: https://2023.midl.io/
+#   year: 2026
+#   id: MIDL26
+#   link: https://2026.midl.io/
 #   deadline: 2023/01/15 09:59
 #   timezone: America/New_York
 #   date: July 10 - July 12, 2023
@@ -561,19 +561,7 @@
 #   note: Short papers submission deadline is on 7 April. 
 #   full_name: Medical Imaging with Deep Learning
   
-- title: MICCAI
-  year: 2025
-  id: MICCAI25
-  link: https://conferences.miccai.org/2025/en/default.asp
-  deadline: 2025/02/20 23:59
-  timezone: America/New_York
-  date: Sept 23 - Sept 27, 2025
-  start: 09/23/2025
-  end: 09/27/2025
-  place: Daejeon, Republic of Korea
-  sub: IM
-  note: 'workshop etc deadlines see official website.'
-  full_name: 28th International Conference on Medical Image Computing and Computer Assisted Intervention
+
 # - title: MICCAI
 #   year: 2023
 #   id: miccai2023
@@ -592,19 +580,19 @@
 
 
 
-# - title: AIME
-#   year: 2023
-#   id: AIME23
-#   link: https://aime23.aimedicine.info/
-#   deadline: 2023/01/15 23:59
-#   timezone: America/New_York
-#   date: June 12 - June 15, 2023
-#   start: 06/12/2023
-#   end: 06/15/2023
-#   place: Portoroz, Slovenia
-#   sub: MHI
-#   note: 'Various Deadlines'
-#   full_name: 21st International Conference of Artificial Intelligence in Medicine
+- title: AIME
+  year: 2026
+  id: AIME26
+  link: https://aime26.aimedicine.info/
+  deadline: 2026/02/17 23:59
+  timezone: America/New_York
+  date: July 7 - 10, 2026
+  start: 07/07/2026
+  end: 07/10/2026
+  place: Ottawa, Canada
+  sub: MHI
+  note: 'Various Deadlines'
+  full_name: International Conference of Artificial Intelligence in Medicine
   
   
 # - title: IPMI
@@ -759,19 +747,18 @@
   
   
 - title: IJCAI
-  year: 2025
-  id: ijcai25
+  year: 2026
+  id: ijcai26
   full_name: International Joint Conference on Artificial Intelligence
-  link: https://2025.ijcai.org/
-  deadline: 2025/01/23 23:59
-  abstract_deadline: 2025/01/16 23:59
-  place: Montreal, Canada
-  date: August 16 - August 22, 2025
-  start: 8/16/2025
-  end: 8/22/2025
+  link: https://2026.ijcai.org/
+  deadline: 2026/01/20 23:59
+  place: Bremen, Germany
+  date: August 15 - August 21, 2026
+  start: 8/15/2026
+  end: 8/21/2026
   sub: ML
   ranking: A
-  note: abstract due Jan 16.
+  note: see website.
 
 - title: AAAI
   year: 2026
@@ -1033,33 +1020,33 @@
   note: Call for papers TBD
 
 - title: ICML
-  year: 2025
-  id: icml25
+  year: 2026
+  id: icml26
   full_name: International Conference on Machine Learning
-  link: https://icml.cc/
-  deadline: 2025/01/31 23:59
-  place: Vancouver, Canada 
-  date: July 13 - 19, 2025
-  start: 7/13/2025
-  end: 7/19/2025
+  link: https://icml.cc/Conferences/2026
+  deadline: 2026/01/29 23:59
+  place: Seoul, Korea 
+  date: July 6 - 12, 2026
+  start: 7/06/2026
+  end: 7/12/2026
   hindex: 204
   sub: ML
-  note: Abstract due Jan 23.
+  note: See website.
   
 - title: KDD
   hindex: 30
-  year: 2025
-  id: kdd25
-  link: https://kdd2025.kdd.org/
-  deadline: 2025/02/10 23:59
+  year: 2026
+  id: kdd26
+  link: https://kdd2026.kdd.org/
+  deadline: 2026/02/08 23:59
   timezone: UTC-12
-  date: August 3-7, 2025
-  start: 8/03/2024
-  end: 8/07/2024
-  place: Toronto, Canada
+  date: August 9-13, 2026
+  start: 8/09/2026
+  end: 8/13/2026
+  place: Jeju, Korea
   sub: DM
   full_name: Knowledge Discovery and Data Mining
-  note: Note the paper abstract deadline is on Feb 3rd.
+  note: .
 
 
 - title: CVPR
@@ -1464,21 +1451,21 @@
 #   sub: RO
 #   paperslink: https://roboticsconference.org/program/papers/
 
-# - title: MICCAI
-#   year: 2021
-#   id: miccai2021
-#   full_name: Medical Image Computing and Computer Assisted Intervention
-#   link: http://www.miccai2021.org/
-#   deadline: 2021/03/03 23:59
-#   timezone: America/Los_Angeles
-#   place: Lima, Peru
-#   date: September 27 - October 1, 2021
-#   start: 9/27/2021
-#   end: 10/1/2021
-#   hindex: 46
-#   sub: CV
-#   note: Intent to submit deadline on Feb 19, 2021. More info <a href='https://www.miccai2021.org/'>here</a>.
-#   paperslink: https://www.miccai2021.org/en/TENTATIVE-SCHEDULE.html
+- title: MICCAI
+  year: 2026
+  id: miccai2026
+  full_name: Medical Image Computing and Computer Assisted Intervention
+  link: https://conferences.miccai.org/2026/en/CALL-FOR-PAPERS.html
+  deadline: 2026/02/26 23:59
+  timezone: America/Los_Angeles
+  place: Abu Dhabi, United Arab Emirates
+  date: October 04 - October 08, 2026
+  start: 10/04/2026
+  end: 10/08/2026
+  hindex: 46
+  sub: CV
+  note: Abstract deadline on Feb 12, 2026
+  paperslink: https://conferences.miccai.org/2026/en/CALL-FOR-PAPERS.html
 
 # - title: ICCV
 #   year: 2021
