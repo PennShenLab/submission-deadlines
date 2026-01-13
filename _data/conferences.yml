@@ -1455,16 +1455,15 @@
   year: 2026
   id: miccai2026
   full_name: Medical Image Computing and Computer Assisted Intervention
-  link: https://conferences.miccai.org/2026/en/CALL-FOR-PAPERS.html
+  link: https://conferences.miccai.org/2026/en
   deadline: 2026/02/26 23:59
   timezone: America/Los_Angeles
   place: Abu Dhabi, United Arab Emirates
-  date: October 04 - October 08, 2026
+  date: October 04 - 08, 2026
   start: 10/04/2026
   end: 10/08/2026
-  hindex: 46
   sub: CV
-  note: Abstract deadline on Feb 12, 2026
+  note: Abstract deadline on Feb 12 2026
 
 # - title: ICCV
 #   year: 2021
