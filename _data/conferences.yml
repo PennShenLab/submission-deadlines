@@ -12,33 +12,47 @@
   end: 10/20/2025  
   note: Accepted papers will be published in the ICCV 2025 Workshop Proceedings following the ICCV 2025 publication guidelines. 
   sub: ML
+    
+- title: TCBB2026
+  year: 2026
+  id: TCBB26
+  full_name: TCBB Special Issue: AI-Driven Advancements in Bioinformatics for Life Science
+  link: https://www.computer.org/digital-library/journals/bb/cfp-ai-driven-advancements-bioinformatics-life-science
+  deadline: 2026/02/28 23:59
+  timezone: America/New_York
+  place: NA
+  date: June 01 - 01, 2026
+  start: 06/01/2026
+  end: 06/01/2026  
+  note: ACM-BCB25 extension to TCBB paper. IEEE Transactions on Computational Biology and Bioinformatics
+  sub: MHI
   
-- title: ieeeJBHI1
-  year: 2025
-  id: JBHI1
-  full_name: IEEE Journal of Biomedical and Health Informatics call for papers Special Issue on Synergizing Multi-modal Agents and Large Foundation Models for Healthcare
-  link: https://www.embs.org/jbhi/about-j-bhi/
-  deadline: 2025/05/31 23:59
-  timezone: America/New_York
-  place: NA
-  date: May 31 - 31, 2025
-  start: 05/31/2025
-  end: 05/31/2025  
-  note: Cheng Chen-MGH organizes. JCR top, IF 7.7
-  sub: AD
-
-- title: ieeeJBHI2
-  year: 2025
-  id: JBHI2
-  full_name: IEEE Journal of Biomedical and Health Informatics call for papers Special Issue on AI-driven Decision-Making for Healthcare Data Science
+- title: ieeeJBHI2026
+  year: 2026
+  id: JBHI26
+  full_name: IEEE Journal of Biomedical and Health Informatics call for papers Special Issue on Emerging AI Technologies and Innovations in Bioinformatics and Health Informatics
   link: https://www.embs.org/jbhi/special-issues/
-  deadline: 2025/07/15 23:59
+  deadline: 2026/02/16 23:59
   timezone: America/New_York
   place: NA
-  date: July 15 - 15, 2025
-  start: 07/15/2025
-  end: 07/15/2025  
-  note: JCR top
+  date: Feburary 16 - 16, 2026
+  start: 02/16/2026
+  end: 02/16/2026  
+  note: ACM-BCB25 extension to JBHI paper
+  sub: MHI
+
+- title: Biostatistics
+  year: 2026
+  id: Biostat
+  full_name: Biostatistics call for papers Special Issue on Statistical Foundations of AI and Real-World Evidence Generation
+  link: https://academic.oup.com/biostatistics/pages/statistical-foundations-of-ai-and-real-world-evidence-generation?login=false
+  deadline: 2026/06/30 23:59
+  timezone: America/New_York
+  place: NA
+  date: June 30 - 30, 2026
+  start: 06/30/2026
+  end: 06/30/2026  
+  note: The journal is inviting submissions for a special collection on Statistical Foundations of AI and Real-World Evidence Generation. This is an opportunity for scientists doing creative applied statistical work that advances developing, evaluation, and deploying AI/ML/NLP/LLM for learning from real-world data.
   sub: MHI
   
 - title: NeuS
@@ -832,15 +846,15 @@
 #   full_name: Alzheimer's Association International Conference
   
 - title: ACM-BCB
-  year: 2025
-  id: acmbcb25
+  year: 2026
+  id: acmbcb26
   link: https://acm-bcb.org/
-  deadline: 2025/06/24 23:59
+  deadline: 2026/02/27 23:59
   timezone: America/New_York
-  date: October 12 - Octobre 15, 2025
-  start: 10/12/2025
-  end: 10/15/2025
-  place: Philadelphia, USA
+  date: June 30 - July 3, 2026
+  start: 06/30/2026
+  end: 07/03/2026
+  place: Rende (Cosenza), Italy
   sub: BI
   note: Notification of acceptance in two months?
   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
