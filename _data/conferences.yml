@@ -27,6 +27,20 @@
   note: ACM-BCB25 extension to TCBB paper. IEEE Transactions on Computational Biology and Bioinformatics
   sub: MHI
   
+- title: innoinfo2026
+  year: 2026
+  id: innoinfo26
+  full_name: The Innovation Informatics special issue
+  link: https://www.the-innovation.org/informatics
+  deadline: 2026/12/31 23:59
+  timezone: America/New_York
+  place: NA
+  date: December 31 - 31, 2026
+  start: 12/31/2026
+  end: 12/31/2026  
+  note: missing details
+  sub: MHI
+  
 - title: ieeeJBHI2026
   year: 2026
   id: JBHI26
