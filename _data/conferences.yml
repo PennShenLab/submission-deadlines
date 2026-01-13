@@ -1451,13 +1451,14 @@
 #   sub: RO
 #   paperslink: https://roboticsconference.org/program/papers/
 
-- title: MICCAI26
+
+- title: MICCAI
   year: 2026
   id: miccai2026
   full_name: Medical Image Computing and Computer Assisted Intervention
-  link: https://conferences.miccai.org/2026/en
+  link: https://conferences.miccai.org/2026/en/
   deadline: 2026/02/26 23:59
-  timezone: America/New_York
+  timezone: UTC-8
   place: Abu Dhabi, United Arab Emirates
   date: October 04 - 08, 2026
   start: 10/04/2026
