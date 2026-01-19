@@ -712,19 +712,19 @@
   full_name: Intelligent Systems for Molecular Biology
 
 
-# - title: ECCB
-#   year: 2024
-#   id: eccb24
-#   link: https://eccb2024.fi/
-#   deadline: 2024/04/04 23:59
-#   timezone: UTC+2
-#   date: September 16 - September 20, 2024
-#   start: 9/16/2024
-#   end: 9/20/2024
-#   place: Logomo, Finland
-#   sub: BI
-#   note: additional deadlines for workshops and tutorials, talks and posters
-#   full_name: European Conference on Computational Biology  
+- title: ECCB
+  year: 2026
+  id: eccb26
+  link: https://eccb2026.org/
+  deadline: 2026/03/05 23:59
+  timezone: UTC+1
+  date: August 31 - September 4, 2026
+  start: 8/31/2026
+  end: 9/04/2026
+  place: Geneva, Switzerland
+  sub: BI
+  note: seperate from ISMB this year
+  full_name: European Conference on Computational Biology  
 
 
 - title: AMIA Informatics Summit
@@ -874,17 +874,17 @@
   full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
 
 - title: AMIA
-  year: 2025
-  id: amia25
+  year: 2026
+  id: amia26
   link: https://amia.org/education-events/annual-symposium
-  deadline: 2025/3/19 23:59
+  deadline: 2026/3/10 23:59
   timezone: America/New_York
-  date: November 15 - November 19, 2025
-  start: 11/15/2025
-  end: 11/19/2025
-  place: Atlanta, USA
+  date: November 7 - November 11, 2026
+  start: 11/7/2026
+  end: 11/11/2026
+  place: Dallas, USA
   sub: MHI
-  note: The theme of AMIA 2025 Annual Symposium is Informatics in the Age of Generative Artificial Intelligence.
+  note: due date to be announced, only inference from 2025
   full_name: American Medical Informatics Association Annual Symposium
   
 - title: NeurIPS
