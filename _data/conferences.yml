@@ -194,19 +194,19 @@
   sub: ML
   full_name: Conference on Language Modeling
 
-# - title: EMNLP
-#   year: 2024
-#   id: emnlp24
-#   full_name: Empirical Methods in Natural Language Processing
-#   link: https://aclrollingreview.org/dates
-#   deadline: 2024/04/15 23:59
-#   timezone: America/New_York
-#   place: NA
-#   date: December 07 - 11, 2024
-#   start: 12/07/2024
-#   end: 12/11/2024  
-#   note: Exact meeting time and place TBD, the ACL conferences use rolling review that happen every 2 months. see ARR website
-#   sub: ML
+- title: EMNLP
+  year: 2026
+  id: emnlp26
+  full_name: Empirical Methods in Natural Language Processing
+  link: https://aclrollingreview.org/dates
+  deadline: 2026/05/19 23:59
+  timezone: America/New_York
+  place: Budapest, Hungary
+  date: October 24 - 29, 2026
+  start: 10/24/2026
+  end: 10/29/2026  
+  note: see ARR website
+  sub: ML
   
 # - title: Methods
 #   year: 2024
