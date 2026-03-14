@@ -125,19 +125,19 @@
 #   note: submission portal opens at the end of May and closes at the end of September 2024. All papers aimed to be accepted by April 2025
 #   sub: IM
   
-# - title: MLHC
-#   year: 2024
-#   id: mlhc24
-#   link: https://www.mlforhc.org/
-#   deadline: 2024/04/16 23:59
-#   timezone: UTC+1
-#   date: August 16 - August 17, 2024
-#   start: 8/16/2024
-#   end: 8/17/2024
-#   place: Toronto, Canada
-#   sub: MHI
-#   note: Bo Wang is in the committee
-#   full_name: Machine Learning for Healthcare
+- title: MLHC
+  year: 2024
+  id: mlhc24
+  link: https://www.mlforhc.org/
+  deadline: 2026/04/17 23:59
+  timezone: America/New_York
+  date: August 12 - August 14, 2026
+  start: 8/12/2026
+  end: 8/14/2026
+  place: Baltimore, United States
+  sub: MHI
+  note: General chair Rahul G Krishnan is from Vector Institute
+  full_name: Machine Learning for Healthcare
   
 # - title: MLCB
 #   year: 2024
