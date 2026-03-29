@@ -888,20 +888,19 @@
   full_name: American Medical Informatics Association Annual Symposium
   
 - title: NeurIPS
-  year: 2025
-  id: neurips25
+  year: 2026
+  id: neurips26
   full_name: Neural Information Processing Systems
   link: https://neurips.cc/
-  deadline: 2025/05/15 23:59
+  deadline: 2026/05/04 23:59
   timezone: America/New_York
-  place: San Diego, USA
-  date: December 2 - December 7, 2025
-  start: 12/2/2025
-  end: 12/7/2025
-  hindex: 198
+  place: Sydney, Australia
+  date: December 6 - December 12, 2026
+  start: 12/6/2026
+  end: 12/12/2026
   sub: ML
   ranking: A
-  note: Also see call for papers https://neurips.cc/Conferences/2025/CallForPapers
+  note: Also see call for papers https://neurips.cc/Conferences/2026
   
 # - title: ASHG
 #   year: 2024
@@ -1002,18 +1001,18 @@
 #   note: Daniele is the chair
 #   full_name: IEEE BIBM 2024 Workshop on AI and Computational Methods for Public Health and the Environment
 
-# - title: BIGDATA
-#   year: 2024
-#   id: bigdata24
-#   link: http://bigdataieee.org/BigData2024/
-#   deadline: 2024/09/08 23:59
-#   timezone: America/New_York
-#   date: December 15 - December 18, 2024
-#   start: 12/15/2024
-#   end: 12/18/2024
-#   place: Washington DC, USA
-#   sub: DM
-#   full_name: IEEE International Conference on Big Data
+- title: BIGDATA
+  year: 2026
+  id: bigdata26
+  link: https://bigdataieee.org/BigData2026/
+  deadline: 2026/08/21 23:59
+  timezone: America/New_York
+  date: December 14 - December 17, 2026
+  start: 12/14/2026
+  end: 12/17/2026
+  place: Phoenix, USA
+  sub: DM
+  full_name: IEEE International Conference on Big Data
   
 - title: ICLR
   year: 2026
