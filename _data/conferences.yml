@@ -974,17 +974,17 @@
   full_name: Pacific Symposium on Biocomputing
 
 - title: BIBM
-  year: 2025
-  id: bibm25
-  link: https://ieeebibm.org/BIBM2025/
-  deadline: 2025/08/03 23:59
+  year: 2026
+  id: bibm26
+  link: https://www3.cs.stonybrook.edu/~bibm2026/
+  deadline: 2026/07/05 23:59
   timezone: America/New_York
-  date: December 15 - December 18, 2025
-  start: 12/15/2025
-  end: 12/18/2025
-  place: Wuhan, China
+  date: December 1 - December 4, 2026
+  start: 12/1/2026
+  end: 12/4/2026
+  place: Dallas, USA
   sub: BI
-  note: Notification on Oct 5 this year
+  note: Notification on Sept 25 this year
   full_name: IEEE International Conference on Bioinformatics and Biomedicine
 
 # - title: BIBMworkshop
