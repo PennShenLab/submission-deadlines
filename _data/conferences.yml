@@ -1,4 +1,32 @@
 ---
+- title: IPMI
+  year: 2026
+  id: IPMI26
+  full_name: International C‌onference on Information Processing in Medical Imaging
+  link: https://2027.ipmi-conf.org/
+  deadline: 2026/12/07 23:59
+  timezone: America/New_York
+  place: Quebec, Canada
+  date: June 27 - July 02, 2027
+  start: 06/27/2027
+  end: 07/02/2027  
+  note: Lake Stukely, Orford, Quebec, Canada
+  sub: IM
+  
+- title: TRUST
+  year: 2026
+  id: TRUST26
+  full_name: ACM Conference on Trustworthy and Responsible AI and Computing Systems
+  link: https://eigtrust.acm.org/trust2027/
+  deadline: 2026/10/31 23:59
+  timezone: America/New_York
+  place: Washington, DC
+  date: March 7 - 9, 2027
+  start: 3/7/2027
+  end: 3/9/2027  
+  note: ACM TRUST 2027 invites original research contributions on the design, verification, development, evaluation, and use of trustworthy and responsible AI and computing systems 
+  sub: ML
+  
 - title: VADH
   year: 2025
   id: VADH25
@@ -727,20 +755,20 @@
   full_name: European Conference on Computational Biology  
 
 
-- title: AMIA Informatics Summit
-  year: 2025
-  id: amia_summit25
-  full_name: AMIA 2025 Informatics Summit
-  link: https://amia.org/education-events/amia-2025-informatics-summit
-  deadline: 2024/09/17 23:59
+- title: AMIA_Amplify
+  year: 2027
+  id: amia_amplify27
+  full_name: AMIA Amplify Informatics
+  link: https://amia.org/education-events/2027-amplify-informatics-conference
+  deadline: 2026/09/03 23:59
   timezone: America/New_York
-  place: Pittsburgh, PA, United States
-  date: March 10 - March 13, 2025
-  start: 3/10/2025
-  end: 3/13/2025
+  place: Atlanta, GA, United States
+  date: April 12 - April 15, 2027
+  start: 4/12/2027
+  end: 4/15/2027
   sub: MHI
   ranking: NA
-  note: Decisions for all formats will be announced in early December
+  note: two tracks, CIC and Summit
   
   
 # - title: SPIE
