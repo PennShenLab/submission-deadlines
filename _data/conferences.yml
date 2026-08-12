@@ -377,17 +377,17 @@
 #   sub: MHI
 
 - title: ICHI
-  year: 2026
-  id: ICHI26
+  year: 2027
+  id: ICHI27
   full_name: IEEE International Conference on Healthcare Informatics
-  link: https://zhang-informatics.github.io/ICHI2026/
-  deadline: 2026/01/31 23:59
+  link: https://openreview.net/group?id=IEEE.org/ICHI/2027/Conference
+  deadline: 2026/09/21 23:59
   timezone: America/New_York
-  place: Minneapolis, United States
-  date: June 1 - 4, 2026
-  start: 06/1/2026
-  end: 06/4/2026  
-  note: 3 main tracks for 2026. analytics, human factors, and systems
+  place: Washington DC, United States
+  date: June 1 - 4, 2027
+  start: 06/1/2027
+  end: 06/4/2027  
+  note: early bird submission track, if accepted may be published in JHIR
   sub: MHI
 
 - title: ISBI
