@@ -381,13 +381,13 @@
   id: ICHI27
   full_name: IEEE International Conference on Healthcare Informatics
   link: https://openreview.net/group?id=IEEE.org/ICHI/2027/Conference
-  deadline: 2026/09/21 23:59
+  deadline: 2026/10/14 23:59
   timezone: America/New_York
   place: Washington DC, United States
-  date: June 1 - 4, 2027
-  start: 06/1/2027
-  end: 06/4/2027  
-  note: early bird submission track, if accepted may be published in JHIR
+  date: June 11 - 14, 2027
+  start: 06/11/2027
+  end: 06/14/2027  
+  note: early bird submission track and main track
   sub: MHI
 
 - title: ISBI
@@ -505,19 +505,19 @@
 #   sub: AD
   
   
-# - title: CSH_Asia
-#   year: 2023
-#   id: CSHA23
-#   full_name: Cold Spring Harbor Asia conference on Systems Biology of Gene Regulation and Genome Editing
-#   link: https://www.csh-asia.org/?content/332
-#   deadline: 2023/08/18 23:59
-#   timezone: Beijing
-#   place: Suzhou, China
-#   date: October 23 - 27, 2023
-#   start: 10/23/2023
-#   end: 10/27/2023  
-#   note: The conference will include eight oral sessions and one poster session covering the latest findings across many topics in system biology.
-#   sub: BI
+- title: CSH_Asia
+  year: 2027
+  id: CSHA27
+  full_name: Cold Spring Harbor Asia conference on Genomics of Rare Diseases
+  link: https://www.csh-asia.org/?content/3267
+  deadline: 2027/07/16 23:59
+  timezone: Beijing
+  place: Suzhou, China
+  date: September 20 - 24, 2027
+  start: 09/20/2027
+  end: 09/24/2027  
+  note: Prof Yi Xing organizer 
+  sub: BI
   
   
 # - title: BI
@@ -709,32 +709,32 @@
 #   full_name: Organization for Human Brain Mapping
 
 
-# - title: AAIC
-#   year: 2023
-#   id: aaic23
-#   link: https://aaic.alz.org/overview.asp
-#   deadline: 2023/01/31 23:59
-#   abstract_deadline: 2023/04/25 23:59
-#   timezone: UTC+1
-#   date: July 16 - July 21, 2023
-#   start: 7/16/2023
-#   end: 7/21/2022
-#   place: Amsterdam, Netherlands and Online
-#   sub: AD
-#   note: 'Deadlines to be updated'
-#   full_name: Alzheimer's Association International Conference
+- title: AAIC
+  year: 2027
+  id: aaic27
+  link: https://aaic.alz.org/
+  deadline: 2027/01/12 23:59
+  # abstract_deadline: 2027/04/25 23:59
+  timezone: UTC+1
+  date: July 18 - July 21, 2027
+  start: 7/18/2027
+  end: 7/21/2027
+  place: Chicago, USA
+  sub: AD
+  note: 'Deadlines to be updated'
+  full_name: Alzheimer's Association International Conference
 
 
 - title: ISMB
-  year: 2025
-  id: ismb25
-  link: https://www.iscb.org/ismbeccb2025/home
-  deadline: 2025/01/23 23:59
+  year: 2027
+  id: ismb27
+  link: https://www.iscb.org/ismbeccb2027/home
+  deadline: 2027/01/14 23:59
   timezone: UTC+1
-  date: July 20 - July 24, 2025
-  start: 7/20/2025
-  end: 7/24/2025
-  place: Liverpool, UK
+  date: July 18 - July 22, 2027
+  start: 7/18/2027
+  end: 7/22/2027
+  place: Copenhagen, Denmark
   sub: BI
   note: Joint with ECCB
   full_name: Intelligent Systems for Molecular Biology
@@ -831,18 +831,18 @@
   note: Dr. Min Xu is one of the organizers of the workshop
 
 - title: RECOMB
-  year: 2025
-  id: recomb25
+  year: 2027
+  id: recomb27
   link: https://recomb.org/
-  deadline: 2024/10/16 23:59
-  paper_register_deadline: 2024/10/25 23:59
+  deadline: 2026/11/04 23:59
+  paper_register_deadline: 2026/10/28 23:59
   timezone: America/New_York
-  date: April 26 - April 29, 2025
-  start: 4/26/2025
-  end: 4/29/2025
-  place: Seoul, Korea
+  date: May 17 - May 20, 2027
+  start: 5/17/2027
+  end: 5/20/2027
+  place: Toronto, Canada
   sub: BI
-  note: paper registeration by Oct 16 and submission by Oct 25 (AOE). Author notification on December 16 2024
+  note: All papers MUST BE submitted, at least in abstract form by the abstract submission deadline. No new submissions will be allowed after this date
   full_name: Annual International Conference on Research in Computational Molecular Biology
   
 # - title: ISMB
@@ -1090,15 +1090,15 @@
 
 
 - title: CVPR
-  year: 2026
-  id: cvpr26
-  link: https://cvpr.thecvf.com/Conferences/2026
-  deadline: '2025-11-14 23:59:59'
+  year: 2027
+  id: cvpr27
+  link: https://cvpr.thecvf.com/
+  deadline: '2026-11-110 23:59:59'
   timezone: America/Los_Angeles
-  place: Denver, USA
-  date: June 6-13, 2026
-  start: 2026-06-16
-  end: 2026-06-13
+  place: Seattle, USA
+  date: June 20-25, 2027
+  start: 2027-06-20
+  end: 2027-06-25
   sub: ML
   
   
